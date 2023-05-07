@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1af822ac0c177d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb113826d658e12d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9edc96fff56c2a96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9f5787a5c51f5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a24f217515af3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a601e2d8e4befd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad55be91d297678d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b919a523d84fc6ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "467fdf7682d4d3c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6efb9bc0fcd1fd70",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee05eb028001942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c6b797987c116f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faaf58f3ae1a15d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ee262955708d3c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1d040cc964578d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9edc96fff56c2a96",
+  "lastOpenFiles": [
+    "NT/1. Atos/At. 1.md",
+    "NT/1. Atos/At. 2.md",
+    "NT/1. Atos/At. 3.md",
+    "Notas/Pessoas/Profetas/Joel.md",
+    "Notas/Horário Judaico.md",
+    "Notas/Pessoas/Profetas",
+    "Notas/Lugares/Jerusalém.md",
+    "Notas/Pessoas/Lucas.md",
+    "Notas/Livros/2. Êxodo.md",
+    "Notas/Livros/3. Levítico.md",
+    "Notas/Livros/4. Números.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 24.md",
+    "Notas/Livros/5. Deuteronômio.md",
+    "Notas/Livros/1. Gênesis.md",
+    "Notas/Livros/40. Mateus.md",
+    "Plano/Untitled.md",
+    "Plano/Plano.md",
+    "Notas/Livros/44. Atos.md",
+    "Plano",
+    "NT/1. Atos",
+    "NT/0. Evangelhos/03. Lucas/Lc. 23.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 22.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 10.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 17.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 21.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 20.md",
+    "AT/Salmos/Sl. 118.md",
+    "AT/Salmos",
+    "Notas/Pedra Angular.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 19.md",
+    "Untitled.canvas",
+    "Notas/Lugares",
+    "Notas/Seres",
+    "Notas/Livros",
+    "Notas/Grupos",
+    "Notas/Pessoas",
+    "Notas"
+  ]
+}

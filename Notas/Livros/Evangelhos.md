@@ -1,0 +1,1 @@
+Engraçado que muitas das coisas que estão descritas no começo de [[42. Lucas]] não mencionam o Evangelho [[43. João]], apenas segundo [[40. Mateus]] e [[41. Marcos]]
