@@ -8,11 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9edc96fff56c2a96",
+            "id": "e989a4dd21f0e534",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NT/1. Atos/At. 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81f922c56474d45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Horário Judaico.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NT/1. Atos/At. 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NT/1. Atos/At. 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NT/1. Atos/At. 4.md"
+              }
             }
           }
         ]
@@ -150,13 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9edc96fff56c2a96",
+  "active": "e989a4dd21f0e534",
   "lastOpenFiles": [
+    "NT/1. Atos/At. 3.md",
+    "Notas/Horário Judaico.md",
+    "NT/1. Atos/At. 4.md",
     "NT/1. Atos/At. 1.md",
     "NT/1. Atos/At. 2.md",
-    "NT/1. Atos/At. 3.md",
     "Notas/Pessoas/Profetas/Joel.md",
-    "Notas/Horário Judaico.md",
     "Notas/Pessoas/Profetas",
     "Notas/Lugares/Jerusalém.md",
     "Notas/Pessoas/Lucas.md",
@@ -181,7 +204,6 @@
     "AT/Salmos/Sl. 118.md",
     "AT/Salmos",
     "Notas/Pedra Angular.md",
-    "NT/0. Evangelhos/03. Lucas/Lc. 19.md",
     "Untitled.canvas",
     "Notas/Lugares",
     "Notas/Seres",
