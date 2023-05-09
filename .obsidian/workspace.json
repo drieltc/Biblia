@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "7c44718af6f00f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/1. Atos/At. 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "81f922c56474d45a",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/1. Atos/At. 4.md",
+                "file": "NT/1. Atos/At. 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/1. Atos/At. 4.md",
+                "file": "NT/1. Atos/At. 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/1. Atos/At. 4.md"
+                "file": "NT/1. Atos/At. 5.md"
               }
             }
           }
@@ -172,11 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e989a4dd21f0e534",
+  "active": "7c44718af6f00f4c",
   "lastOpenFiles": [
+    "NT/1. Atos/At. 4.md",
+    "NT/1. Atos/At. 5.md",
     "NT/1. Atos/At. 3.md",
     "Notas/Horário Judaico.md",
-    "NT/1. Atos/At. 4.md",
     "NT/1. Atos/At. 1.md",
     "NT/1. Atos/At. 2.md",
     "Notas/Pessoas/Profetas/Joel.md",
@@ -203,7 +218,6 @@
     "NT/0. Evangelhos/03. Lucas/Lc. 20.md",
     "AT/Salmos/Sl. 118.md",
     "AT/Salmos",
-    "Notas/Pedra Angular.md",
     "Untitled.canvas",
     "Notas/Lugares",
     "Notas/Seres",
