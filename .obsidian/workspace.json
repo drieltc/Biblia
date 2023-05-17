@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e989a4dd21f0e534",
+            "id": "1015764cbb927be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 5.md",
+                "file": "NT/1. Atos/At. 11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "0f582c94510033b7",
+            "id": "752a4c634909b8a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 6.md",
+                "file": "NT/1. Atos/At. 12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eafe7cd88be0b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/1. Atos/At. 13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/1. Atos/At. 6.md",
+                "file": "NT/1. Atos/At. 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/1. Atos/At. 6.md",
+                "file": "NT/1. Atos/At. 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/1. Atos/At. 6.md"
+                "file": "NT/1. Atos/At. 13.md"
               }
             }
           }
@@ -173,10 +186,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f582c94510033b7",
+  "active": "3eafe7cd88be0b65",
   "lastOpenFiles": [
-    "NT/1. Atos/At. 5.md",
+    "NT/1. Atos/At. 12.md",
+    "NT/1. Atos/At. 13.md",
+    "NT/1. Atos/At. 11.md",
+    "NT/1. Atos/At. 10.md",
+    "NT/1. Atos/At. 9.md",
+    "NT/1. Atos/At. 8.md",
+    "NT/1. Atos/At. 7.md",
+    "Notas/Resumo da História de Israel.md",
     "NT/1. Atos/At. 6.md",
+    "NT/1. Atos/At. 5.md",
     "Notas/Pessoas/Gamaliel.md",
     "NT/1. Atos/At. 4.md",
     "Notas/Horário Judaico.md",
@@ -194,16 +215,8 @@
     "Notas/Livros/5. Deuteronômio.md",
     "Notas/Livros/1. Gênesis.md",
     "Notas/Livros/40. Mateus.md",
-    "Plano/Untitled.md",
-    "Plano/Plano.md",
-    "Notas/Livros/44. Atos.md",
     "Plano",
     "NT/1. Atos",
-    "NT/0. Evangelhos/03. Lucas/Lc. 23.md",
-    "NT/0. Evangelhos/03. Lucas/Lc. 22.md",
-    "NT/0. Evangelhos/03. Lucas/Lc. 10.md",
-    "NT/0. Evangelhos/03. Lucas/Lc. 17.md",
-    "NT/0. Evangelhos/03. Lucas/Lc. 21.md",
     "AT/Salmos",
     "Untitled.canvas",
     "Notas/Lugares",
