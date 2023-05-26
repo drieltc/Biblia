@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3eafe7cd88be0b65",
+            "id": "b4b48a8e61af919e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 14.md",
+                "file": "NT/1. Atos/At. 20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "e09b83baef0c3b2e",
+            "id": "5a65c6541b5cbbf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09d84e1c354dd43a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/1. Atos/At. 16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a3704c0787a8381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/1. Atos/At. 16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbc6961c6938b122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/1. Atos/At. 17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64b1689068b7aaed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/1. Atos/At. 18.md",
+                "file": "NT/1. Atos/At. 21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/1. Atos/At. 18.md",
+                "file": "NT/1. Atos/At. 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/1. Atos/At. 18.md",
+                "file": "NT/1. Atos/At. 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/1. Atos/At. 18.md"
+                "file": "NT/1. Atos/At. 21.md"
               }
             }
           }
@@ -225,10 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64b1689068b7aaed",
+  "active": "5a65c6541b5cbbf5",
   "lastOpenFiles": [
-    "NT/1. Atos/At. 17.md",
+    "NT/1. Atos/At. 20.md",
+    "NT/1. Atos/At. 21.md",
+    "NT/1. Atos/At. 19.md",
     "NT/1. Atos/At. 18.md",
+    "NT/1. Atos/At. 17.md",
     "NT/1. Atos/At. 16.md",
     "Plano/Plano.md",
     "NT/1. Atos/At. 3.md",
@@ -251,9 +202,6 @@
     "NT/1. Atos/At. 7.md",
     "Notas/Resumo da História de Israel.md",
     "NT/1. Atos/At. 6.md",
-    "NT/1. Atos/At. 5.md",
-    "Notas/Pessoas/Gamaliel.md",
-    "NT/1. Atos/At. 4.md",
     "Notas/Pessoas/Profetas",
     "Plano",
     "NT/1. Atos",
