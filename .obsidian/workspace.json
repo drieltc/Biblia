@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4b48a8e61af919e",
+            "id": "9c574d1fe216560b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 20.md",
+                "file": "NT/1. Atos/At. 23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5a65c6541b5cbbf5",
+            "id": "6716180e0cade76d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 21.md",
+                "file": "NT/1. Atos/At. 24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/1. Atos/At. 21.md",
+                "file": "NT/1. Atos/At. 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/1. Atos/At. 21.md",
+                "file": "NT/1. Atos/At. 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/1. Atos/At. 21.md"
+                "file": "NT/1. Atos/At. 24.md"
               }
             }
           }
@@ -173,10 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a65c6541b5cbbf5",
+  "active": "6716180e0cade76d",
   "lastOpenFiles": [
-    "NT/1. Atos/At. 20.md",
+    "NT/1. Atos/At. 23.md",
+    "NT/1. Atos/At. 24.md",
+    "NT/1. Atos/At. 22.md",
     "NT/1. Atos/At. 21.md",
+    "NT/1. Atos/At. 20.md",
+    "NT/1. Atos/At. 6.md",
     "NT/1. Atos/At. 19.md",
     "NT/1. Atos/At. 18.md",
     "NT/1. Atos/At. 17.md",
@@ -198,10 +202,6 @@
     "NT/1. Atos/At. 11.md",
     "NT/1. Atos/At. 10.md",
     "NT/1. Atos/At. 9.md",
-    "NT/1. Atos/At. 8.md",
-    "NT/1. Atos/At. 7.md",
-    "Notas/Resumo da História de Israel.md",
-    "NT/1. Atos/At. 6.md",
     "Notas/Pessoas/Profetas",
     "Plano",
     "NT/1. Atos",
