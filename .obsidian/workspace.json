@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c574d1fe216560b",
+            "id": "efe618937b14bd14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 23.md",
+                "file": "NT/1. Atos/At. 25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "6716180e0cade76d",
+            "id": "a2f254489b5d6564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/1. Atos/At. 24.md",
+                "file": "NT/1. Atos/At. 26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c3a51fe371cee99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/1. Atos/At. 27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe5b53ad678846d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/1. Atos/At. 28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/1. Atos/At. 24.md",
+                "file": "NT/1. Atos/At. 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/1. Atos/At. 24.md",
+                "file": "NT/1. Atos/At. 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/1. Atos/At. 24.md"
+                "file": "NT/1. Atos/At. 28.md"
               }
             }
           }
@@ -173,8 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6716180e0cade76d",
+  "active": "98a601e2d8e4befd",
   "lastOpenFiles": [
+    "NT/2. Cartas",
+    "NT/1. Atos/At. 27.md",
+    "NT/1. Atos/At. 28.md",
+    "NT/1. Atos/At. 26.md",
+    "NT/1. Atos/At. 25.md",
     "NT/1. Atos/At. 23.md",
     "NT/1. Atos/At. 24.md",
     "NT/1. Atos/At. 22.md",
@@ -197,11 +228,6 @@
     "NT/1. Atos/At. 14.md",
     "Notas/Lugares/Antioquia da Síria.md",
     "Notas/Lugares/Antioquia da Psídia.md",
-    "NT/1. Atos/At. 13.md",
-    "NT/1. Atos/At. 12.md",
-    "NT/1. Atos/At. 11.md",
-    "NT/1. Atos/At. 10.md",
-    "NT/1. Atos/At. 9.md",
     "Notas/Pessoas/Profetas",
     "Plano",
     "NT/1. Atos",
