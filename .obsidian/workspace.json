@@ -11,8 +11,13 @@
             "id": "48491ec9830c65f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NT/1. Atos/At. 28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NT/1. Atos/At. 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NT/1. Atos/At. 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NT/1. Atos/At. 28.md"
+              }
             }
           }
         ]
@@ -152,10 +161,12 @@
   },
   "active": "48491ec9830c65f2",
   "lastOpenFiles": [
-    "NT/1. Atos/At. 25.md",
-    "NT/1. Atos/At. 26.md",
     "NT/1. Atos/At. 27.md",
     "NT/1. Atos/At. 28.md",
+    "Notas/Pessoas/Paulo.md",
+    "Notas/Lugares/Fenice.md",
+    "NT/1. Atos/At. 26.md",
+    "NT/1. Atos/At. 25.md",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",
     "NT/2. Cartas",
     "NT/1. Atos/At. 23.md",
@@ -179,7 +190,6 @@
     "NT/1. Atos/At. 15.md",
     "NT/1. Atos/At. 14.md",
     "Notas/Lugares/Antioquia da Síria.md",
-    "Notas/Lugares/Antioquia da Psídia.md",
     "Notas/Pessoas/Profetas",
     "Plano",
     "NT/1. Atos",
