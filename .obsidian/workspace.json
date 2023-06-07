@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a53cfa29a305ddd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/2. Cartas/01. Romanos/Rm. 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "convers",
+                "query": "Rm.1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/1. Atos/At. 28.md",
+                "file": "NT/2. Cartas/01. Romanos/Rm. 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/1. Atos/At. 28.md",
+                "file": "NT/2. Cartas/01. Romanos/Rm. 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/1. Atos/At. 28.md"
+                "file": "NT/2. Cartas/01. Romanos/Rm. 1.md"
               }
             }
           }
@@ -159,10 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48491ec9830c65f2",
+  "active": "a53cfa29a305ddd7",
   "lastOpenFiles": [
-    "NT/1. Atos/At. 27.md",
     "NT/1. Atos/At. 28.md",
+    "NT/2. Cartas/01. Romanos/Rm. 1.md",
+    "NT/2. Cartas/01. Romanos",
+    "NT/1. Atos/At. 27.md",
     "Notas/Pessoas/Paulo.md",
     "Notas/Lugares/Fenice.md",
     "NT/1. Atos/At. 26.md",
@@ -189,14 +205,12 @@
     "Notas/Pessoas/Lucas.md",
     "NT/1. Atos/At. 15.md",
     "NT/1. Atos/At. 14.md",
-    "Notas/Lugares/Antioquia da Síria.md",
     "Notas/Pessoas/Profetas",
     "Plano",
     "NT/1. Atos",
     "AT/Salmos",
     "Untitled.canvas",
     "Notas/Lugares",
-    "Notas/Seres",
-    "Notas/Livros"
+    "Notas/Seres"
   ]
 }
