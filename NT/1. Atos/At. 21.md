@@ -1,7 +1,7 @@
 # O Caminho até [[Jerusalém]]
 [[At. 21]] 1-16
 - Após falar com os anciãos (em [[Mileto]]), [[Lucas]], [[Paulo]] e quem estava com eles navegam para [[Cós]], [[Rodes]], [[Pátara]], [[Fenícia]], [[Síria]] e [[Tiro]]
-- Ali encontraram mais pessoas que pediam a Paulo para não ir a [[Jersualém]]
+- Ali encontraram mais pessoas que pediam a Paulo para não ir a [[Jerusalém]]
 - De Tiro foram à [[Ptolemaida]] e [[Cesaréia]]
 - Lá ficaram hospedados na casa de [[Filipe]], o evangelista (que fora insituído [[Diácono]] em [[At. 6]]) onde
 	- Suas filhas profetizaram

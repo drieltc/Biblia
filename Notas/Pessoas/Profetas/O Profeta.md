@@ -1,0 +1,1 @@
+Ess título aparece em [[Jo. 1]] quando os sacerdotes e fariseus perguntam quem era João Batista. Perguntam se ele seria o Cristo, Elias, ou [[O Profeta]]. Esse título provavelmente é uma referência a [[Dt. 18]] 15 "O Senhor, teu Deus, suscitará um profeta do meio de ti, de teus irmãos, semelhante a mim; a ele ouvirás"

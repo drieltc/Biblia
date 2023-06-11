@@ -1,0 +1,1 @@
+João Batista foi um profeta e pregador que veio antes de Jesus. Ele é mencionado em todos os quatro evangelhos do Novo Testamento como aquele que veio preparar o caminho para o Messias. João Batista batizava as pessoas no rio Jordão como um sinal de arrependimento e preparação para a vinda do Reino de Deus.

@@ -5,7 +5,7 @@
 - [ ] [[40. Mateus]]
 - [ ] [[1 Pedro]]
 - [ ] [[41. Marcos]]
-- [ ] [[Romanos]]
+- [ ] [[Romanos]]*
 - [ ] [[1 Coríntios]]
 - [ ] [[2 Coríntios]]
 - [ ] [[Gálatas]]
@@ -25,3 +25,5 @@
 - [ ] [[3 João]]
 - [ ] [[Judas]]
 - [ ] [[Apocalipse]]
+- [ ] \*[[1. Gênesis]]
+- [ ] [[2. Êxodo]]

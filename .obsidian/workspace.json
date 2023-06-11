@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48491ec9830c65f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/1. Atos/At. 28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a53cfa29a305ddd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/2. Cartas/01. Romanos/Rm. 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce271ea972235cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/2. Cartas/01. Romanos/Rm. 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f1d8b3e3056ac53",
             "type": "leaf",
             "state": {
@@ -58,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15d357b05554d466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Livros/43. João.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 1.md",
+                "file": "Notas/Livros/43. João.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 1.md",
+                "file": "Notas/Livros/43. João.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 1.md"
+                "file": "Notas/Livros/43. João.md"
               }
             }
           }
@@ -199,13 +173,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f1d8b3e3056ac53",
+  "active": "15d357b05554d466",
   "lastOpenFiles": [
+    "Notas/Livros/42. Lucas.md",
+    "Notas/Livros/41. Marcos.md",
+    "Notas/Livros/40. Mateus.md",
+    "Notas/Livros/5. Deuteronômio.md",
+    "Notas/Livros/4. Números.md",
+    "Notas/Livros/3. Levítico.md",
+    "Notas/Livros/2. Êxodo.md",
+    "Notas/Livros/1. Gênesis.md",
+    "Notas/Livros/43. João.md",
+    "NT/0. Evangelhos/04. João/Jo. 2.md",
+    "NT/0. Evangelhos/04. João/Jo. 1.md",
+    "Notas/Pessoas/João Batista.md",
+    "Notas/Pessoas/Profetas/O Profeta.md",
+    "NT/0. Evangelhos/04. João/Jersualém.md",
+    "NT/1. Atos/At. 21.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 3.md",
+    "NT/1. Atos/At. 28.md",
     "Plano/Plano.md",
     "NT/2. Cartas/01. Romanos/Rm. 3.md",
     "NT/2. Cartas/01. Romanos/Rm. 2.md",
     "NT/2. Cartas/01. Romanos/Rm. 1.md",
-    "NT/1. Atos/At. 28.md",
     "NT/2. Cartas/01. Romanos",
     "NT/1. Atos/At. 27.md",
     "Notas/Pessoas/Paulo.md",
@@ -214,23 +204,7 @@
     "NT/1. Atos/At. 25.md",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",
     "NT/2. Cartas",
-    "NT/1. Atos/At. 23.md",
-    "NT/1. Atos/At. 24.md",
-    "NT/1. Atos/At. 22.md",
-    "NT/1. Atos/At. 21.md",
-    "NT/1. Atos/At. 20.md",
-    "NT/1. Atos/At. 6.md",
-    "NT/1. Atos/At. 19.md",
-    "NT/1. Atos/At. 18.md",
-    "NT/1. Atos/At. 17.md",
-    "NT/1. Atos/At. 16.md",
-    "NT/1. Atos/At. 3.md",
-    "NT/0. Evangelhos/03. Lucas/Lc. 1.md",
-    "NT/1. Atos/At. 1.md",
-    "AT/Provérbios/Pv. 1.md",
-    "AT/Provérbios/Pv. 2.md",
     "AT/Provérbios",
-    "Notas/Pessoas/Lucas.md",
     "Notas/Pessoas/Profetas",
     "Plano",
     "NT/1. Atos",
