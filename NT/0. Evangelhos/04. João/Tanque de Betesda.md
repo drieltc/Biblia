@@ -1,0 +1,2 @@
+ - Possuia 5 alpendres
+ - Supostamente, um ano vinha de tempos em tempos e tocava nas águas do tanque; após isso, a primeira pessoa que entrasse no tanque era curada imediatamente
