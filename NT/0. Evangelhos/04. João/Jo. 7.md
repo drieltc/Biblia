@@ -10,7 +10,7 @@
 - Após seus irmãos partirem, Jesus decide ir também, mas escondido
 - Os judeus o procuravam na festa, mas não encontravam
 - Jesus decide ir ao templo e ensinar
-	- Alguns viram e questionaram sua capacidade, já que não havia estudado as letras
+	- Alguns viram e questionaram sua capacidade, já que não havia estudado formalmente
 	- Jesus diz que sabia a doutrina por causa daquele que Lhe enviou
 	- Se a circuncisão podia ocorrer nos sábados, por que Ele não podia realizar milagres aos sábados?
 # Jesus é o Cristo
