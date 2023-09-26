@@ -7,5 +7,5 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": false
 }

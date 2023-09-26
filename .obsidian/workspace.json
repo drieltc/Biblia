@@ -47,6 +47,32 @@
             }
           },
           {
+            "id": "750a7f3ad7d14078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/0. Evangelhos/04. João/Jo. 9.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7d63a63e280b6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/0. Evangelhos/04. João/Jo. 10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "15e7adbaa632ee81",
             "type": "leaf",
             "state": {
@@ -57,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 9.md",
+                "file": "NT/0. Evangelhos/04. João/Jo. 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 9.md",
+                "file": "NT/0. Evangelhos/04. João/Jo. 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 9.md"
+                "file": "NT/0. Evangelhos/04. João/Jo. 10.md"
               }
             }
           }
@@ -196,10 +222,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19ad7a43600caa2a",
+  "active": "e7d63a63e280b6c7",
   "lastOpenFiles": [
-    "NT/0. Evangelhos/04. João/Jo. 8.md",
     "NT/0. Evangelhos/04. João/Jo. 9.md",
+    "NT/0. Evangelhos/04. João/Jo. 10.md",
+    "AT/Provérbios/Pv. 2.md",
+    "AT/Provérbios/Pv. 1.md",
+    "NT/0. Evangelhos/04. João/Jo. 8.md",
     "NT/0. Evangelhos/04. João/Jo. 7.md",
     "NT/0. Evangelhos/04. João/Jo. 6.md",
     "NT/0. Evangelhos/04. João/[[Jo..md",
@@ -222,9 +251,6 @@
     "Notas/Livros/5. Deuteronômio.md",
     "Notas/Livros/4. Números.md",
     "Notas/Livros/3. Levítico.md",
-    "Notas/Livros/2. Êxodo.md",
-    "Notas/Livros/1. Gênesis.md",
-    "Notas/Pessoas/João Batista.md",
     "NT/2. Cartas/01. Romanos",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",
     "NT/2. Cartas",
