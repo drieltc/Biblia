@@ -1,0 +1,14 @@
+- [[Salomão]] começa dizendo que não devemos nos esquecer da sua lei e guardar seus mandamentos. Extendo isso para "não devemos esquecer a lei de Deus e guardar no coração os Seus mandamentos"
+- Mandamentos esses que acrescentarão anos de vida e paz para quem os guardar
+- Seja gente boa e verdadeiro, assim achará graça aos olhos de Deus e dos homens
+- Confia em Deus e não fique perdido na sua cabeça "cheia de conhecimentos"
+- Reconhecer os Senhor em seus caminhos fará com que Ele endireite suas veredas
+- Não procure ser sábio aos seus próprios olhos?
+- Tema ao Senhor e fique longe do mal, pois isso lhe fará bem
+- Honra ao Senhor com o que tens e muito mais lhe será dado
+- Não rejeite a correção de Deus, afinal, Ele corrge quem ama, tal qual um pai que corrije os erros de seu filho
+- Busque sabedoria porque ela fará boas coisas
+- Quem busca a sabedoria tem como esperança o Snehor, e Ele lhe protegerá
+- Faça o bem e não o mal
+- Não tenha inveja dos maus pois a eles está reservado a abominação por parte do Seehor
+- 
