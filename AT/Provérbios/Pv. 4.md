@@ -1,0 +1,4 @@
+- Versículos 6 e 23 me chamam a antenção. O primeiro afirma que quem adquire [[Sabedoria]] e por seus caminhos anda (*aka* "não a desampara") será guardado por ela. Quem amá-la será conservado por ela. 
+- Já o segundo impõe que devemos, **acima de tudo**, guardar o coração, pois tudo o qu fazemos na vida tem origem no coração %%for everything you do flows from it %%
+	- Na KJA está: guardar o íntimo da razão, pois da disposição do coração depende toda a vida
+	- No fim das contas, um coração bem guardado, com boas intenções, é um fator  importante na vida de uma pessoa, então que tenhamos um coração com boas intenções.

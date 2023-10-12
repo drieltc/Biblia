@@ -1,0 +1,8 @@
+- Salomão começa falando sobre como é ruim ser fiador de alguém e que, caso isso aconteça, devemos ser rápidos em agir na situação.
+- Depois parte para a preguiça
+	- Dá exemplo da formiga, que sempre trabalha guardando mantimentos para o inverno
+	- Aqueles que se submetem à preguiça viverão na pobreza
+- Fala sobre "o homem de belial" e as 6 coisas que o Senhor se aborrece e a 7ª abomina
+- Parte para mais um conselho para os jovens, dessa vez sobre a mulher adúltera
+	- Os mandamentos do pai e da mãe guiarão os caminhos daqueles que deixarem isso acontecer
+	- Aquele que se relaciona com mulhere comprometida se sujeita à furia do marido, que não se extinguirá nem com os melhores presentes

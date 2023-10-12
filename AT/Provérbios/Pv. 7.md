@@ -1,0 +1,3 @@
+- Salomão prossegue em falar sobre mulheres
+	- Dessa vez conta uma estória sobre uma mulher que convence um jovem a se deitar com ela enquanto o marido viajava. No fim das contas o jovem foi morto por uma flechada no fígado.
+- Depois da estória, diz para o leitor não tivesse o coração inclinado para os caminhos dessa mulher e nem andasse perdido em suas veredas

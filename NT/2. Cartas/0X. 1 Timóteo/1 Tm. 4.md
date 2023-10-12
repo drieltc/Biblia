@@ -1,0 +1,1 @@
+- Paulo falando a Timóteo diz para ele não se deixar ser desprezado por ser jovem. Mas que fosse exemplo para os fiéis. 

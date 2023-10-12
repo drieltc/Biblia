@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 7.md",
+                "file": "AT/Provérbios/Pv. 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "4d3196dfff5c956a",
+            "id": "1a59deb86a65c61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 8.md",
+                "file": "AT/Provérbios/Pv. 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "19ad7a43600caa2a",
+            "id": "27f53e5a43bba3ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 9.md",
+                "file": "AT/Provérbios/Pv. 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,56 +47,20 @@
             }
           },
           {
-            "id": "750a7f3ad7d14078",
+            "id": "00202e9b3b6e9ab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/0. Evangelhos/04. João/Jo. 9.md",
+                "file": "AT/Provérbios/Pv. 8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e7d63a63e280b6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b72bca2ce5d87a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15e7adbaa632ee81",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/Provérbios/Pv. 3.md",
+                "file": "AT/Provérbios/Pv. 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/Provérbios/Pv. 3.md",
+                "file": "AT/Provérbios/Pv. 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/Provérbios/Pv. 3.md"
+                "file": "AT/Provérbios/Pv. 8.md"
               }
             }
           }
@@ -235,15 +199,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72bca2ce5d87a81",
+  "active": "00202e9b3b6e9ab5",
   "lastOpenFiles": [
+    "AT/Provérbios/Pv. 7.md",
+    "AT/Provérbios/Pv. 8.md",
+    "NT/2. Cartas/0X. 1 Timóteo/1 Tm. 4.md",
+    "NT/2. Cartas/0X. 1 Timóteo",
+    "NT/2. Cartas/01. Romanos/Untitled",
+    "AT/Provérbios/Pv. 6.md",
+    "NT/0. Evangelhos/04. João/Jo. 7.md",
+    "NT/0. Evangelhos/04. João/Jo. 8.md",
+    "NT/0. Evangelhos/04. João/Jo. 9.md",
     "AT/Provérbios/Pv. 2.md",
     "AT/Provérbios/Pv. 3.md",
+    "AT/Provérbios/Pv. 4.md",
+    "AT/Provérbios/Pv. 5.md",
+    "Notas/Sabedoria.md",
     "NT/0. Evangelhos/04. João/Jo. 10.md",
-    "NT/0. Evangelhos/04. João/Jo. 9.md",
+    "Plano/Plano.md",
     "AT/Provérbios/Pv. 1.md",
-    "NT/0. Evangelhos/04. João/Jo. 8.md",
-    "NT/0. Evangelhos/04. João/Jo. 7.md",
     "NT/0. Evangelhos/04. João/Jo. 6.md",
     "NT/0. Evangelhos/04. João/[[Jo..md",
     "NT/0. Evangelhos/04. João/[Jo..md",
@@ -256,14 +230,6 @@
     "NT/0. Evangelhos/04. João/Jo. 4.md",
     "Untitled.canvas",
     "README.md",
-    "NT/0. Evangelhos/04. João/Jo. 3.md",
-    "Notas/Livros/43. João.md",
-    "NT/0. Evangelhos/04. João/Jo. 2.md",
-    "Notas/Livros/42. Lucas.md",
-    "Notas/Livros/41. Marcos.md",
-    "Notas/Livros/40. Mateus.md",
-    "Notas/Livros/5. Deuteronômio.md",
-    "Notas/Livros/4. Números.md",
     "NT/2. Cartas/01. Romanos",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",
     "NT/2. Cartas",
@@ -271,8 +237,6 @@
     "Notas/Pessoas/Profetas",
     "Plano",
     "NT/1. Atos",
-    "AT/Salmos",
-    "Notas/Lugares",
-    "Notas/Seres"
+    "AT/Salmos"
   ]
 }

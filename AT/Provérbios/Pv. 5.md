@@ -1,0 +1,2 @@
+- Salomão começa falando sobre os perigos de se apaixonar por mulheres "estranhas" - talvez porque, na cultura da época (ou de mais antigamente), não fosse recomendado o casamento entre diferentes povos, o que torna o texto irônico, afinal Salomão teve muitas mulheres. De qualquer forma, que esse texto sirva para casos de julgo desigual. Claro que cada caso é um caso, mas é prudente não se considerar uma exceção à regra.
+- Versículo 21 traz uma bela reflexão sobre os caminhos que a vida toma e como Deus cuida de tudo
