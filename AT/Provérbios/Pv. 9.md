@@ -1,0 +1,12 @@
+- Salomão continua falando sobre [[Sabedoria]]
+- Fala também sobre repreensão
+	- Repreender um escarnecedor é arranjar problema para si
+	- Repreender um sábio fará com que o repreendido te ame
+		- Lição: Ao ser repreendido, ficar feliz e apreciar a repreensão, pois é para edificação
+- Verso 10
+	- O temor do Senhor é o princípio da sabedoria.
+		- Um livro sobre sabedoria, então digo com facilidade que Pv. 9:10 é um dos versículos mais importantes escritos por Salomão.
+		- Que possamos temer ao Senhor e, assim, buscar a tão falada e elogiada Sabedoria.
+	- Conhecimento do Santo é prudência
+		- Apesar de variações de acordo com traduções, acredito que o sentido do texto é dizer conhecer as coisas Santas é prudente e irá te ajudar a compreender melhor outros conhecimentos.
+- Mais uma vez Salomão alerta para ter cuidado com mulheres.

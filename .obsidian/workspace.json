@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bedb53cbdf1249fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a59deb86a65c61b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27f53e5a43bba3ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "00202e9b3b6e9ab5",
             "type": "leaf",
             "state": {
@@ -58,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "936b69bf17b42dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/Provérbios/Pv. 9.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/Provérbios/Pv. 8.md",
+                "file": "AT/Provérbios/Pv. 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/Provérbios/Pv. 8.md",
+                "file": "AT/Provérbios/Pv. 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/Provérbios/Pv. 8.md"
+                "file": "AT/Provérbios/Pv. 9.md"
               }
             }
           }
@@ -199,11 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00202e9b3b6e9ab5",
+  "active": "936b69bf17b42dec",
   "lastOpenFiles": [
-    "AT/Provérbios/Pv. 7.md",
     "AT/Provérbios/Pv. 8.md",
+    "AT/Provérbios/Pv. 9.md",
     "NT/2. Cartas/0X. 1 Timóteo/1 Tm. 4.md",
+    "AT/Provérbios/Pv. 7.md",
     "NT/2. Cartas/0X. 1 Timóteo",
     "NT/2. Cartas/01. Romanos/Untitled",
     "AT/Provérbios/Pv. 6.md",
@@ -229,7 +204,6 @@
     "NT/0. Evangelhos/04. João/Jo. 5.md",
     "NT/0. Evangelhos/04. João/Jo. 4.md",
     "Untitled.canvas",
-    "README.md",
     "NT/2. Cartas/01. Romanos",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",
     "NT/2. Cartas",
