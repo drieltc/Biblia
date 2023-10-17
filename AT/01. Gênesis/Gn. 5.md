@@ -1,0 +1,2 @@
+- Da linhagem de Sete veio Lameque, pai de Noé. 
+- Noé recebe ester nome pois "Nos consolará acerca de nossas obras e do trabalho de nossas mão por causa da terra que o Senhor amaldiçoou"

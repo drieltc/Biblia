@@ -1,0 +1,4 @@
+- Os [[Filhos de Deus]] (provavelmente a linhagem de Sete) viram que as filhas dos homens (provavelmente a linhagem de Caim ou de algum dos outros irmãos de Sete) eram bonitas e as tomaram para si como esposas %%filhas dos homens, esposas de Salomão, Bate-Seba... que fique de exemplo pra todos os homens: encontre uma companheira direita, pq uma fuleira vai estragar a sua vida de maneiras inimagiáveis. Além disso, seja uma pessoa direita, e não um fuleiro%%
+- Deus via a maldade no coração do povo e "se arrependeu" de ter criado o homem
+	- Me pergunto como isso se choca com a passagem de "Deus não é homem para que minta nem filho do Homem para que se arrependa". Certamente é apenas um problema de tradução, então é bom aprender hebraico e ver o texto original
+- Decidido a matar o povo da terra, Deus viu graça em Noé e decide avisá-lo para que dele a terra fosse repopulada.

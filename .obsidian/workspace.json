@@ -32,9 +32,71 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d2b6cff69249733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/01. Gênesis/Gn. 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ed6780b3b5ff1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/01. Gênesis/Gn. 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4824be18ade7f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/Provérbios/Pv. 9.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "127abadfd04f316f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/Provérbios/Pv. 10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5812fd1411cc0397",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/Provérbios/Pv. 9.md",
+                "file": "AT/Provérbios/Pv. 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/Provérbios/Pv. 9.md",
+                "file": "AT/Provérbios/Pv. 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/Provérbios/Pv. 9.md"
+                "file": "AT/Provérbios/Pv. 10.md"
               }
             }
           }
@@ -173,10 +235,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "936b69bf17b42dec",
+  "active": "127abadfd04f316f",
   "lastOpenFiles": [
-    "AT/Provérbios/Pv. 8.md",
     "AT/Provérbios/Pv. 9.md",
+    "AT/Provérbios/Pv. 10.md",
+    "AT/01. Gênesis/Gn. 6.md",
+    "AT/01. Gênesis/Gn. 5.md",
+    "AT/01. Gênesis/Gn. 4.md",
+    "AT/01. Gênesis",
+    "Untitled",
+    "AT/Provérbios/Pv. 8.md",
     "NT/2. Cartas/0X. 1 Timóteo/1 Tm. 4.md",
     "AT/Provérbios/Pv. 7.md",
     "NT/2. Cartas/0X. 1 Timóteo",
@@ -199,18 +267,12 @@
     "NT/0. Evangelhos/04. João/Jo..md",
     "NT/0. Evangelhos/03. Lucas/Lc. 1.md",
     "2023-07-31.md",
-    "NT/0. Evangelhos/04. João/Jo. 1.md",
-    "Notas/Tanque de Betesda.md",
-    "NT/0. Evangelhos/04. João/Jo. 5.md",
-    "NT/0. Evangelhos/04. João/Jo. 4.md",
     "Untitled.canvas",
     "NT/2. Cartas/01. Romanos",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",
     "NT/2. Cartas",
     "AT/Provérbios",
     "Notas/Pessoas/Profetas",
-    "Plano",
-    "NT/1. Atos",
-    "AT/Salmos"
+    "Plano"
   ]
 }

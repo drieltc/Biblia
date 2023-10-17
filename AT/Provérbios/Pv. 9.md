@@ -1,4 +1,4 @@
-- Salomão continua falando sobre [[Sabedoria]]
+ - Salomão continua falando sobre [[Sabedoria]]
 - Fala também sobre repreensão
 	- Repreender um escarnecedor é arranjar problema para si
 	- Repreender um sábio fará com que o repreendido te ame
