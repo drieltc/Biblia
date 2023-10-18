@@ -1,0 +1,1 @@
+- Por algumas vezes é dito que o arco-íris serve para Deus se lembrar de não destruir a terra com água. Com certeza é algum erro na tradução, pois Deus não se esqueceria de coisa alguma

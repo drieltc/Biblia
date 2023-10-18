@@ -1,0 +1,3 @@
+- Aqui há a descrição da confusão de línguas provocada pelo Senhor na cidade de Babel. O texto não dá um motivo muito claro sobre o motivo de Deus ter confundido as línguas.
+	- De qualquer forma, a capacidade do ser humano tem de alcançar grandes feitos quando trabalha em equipe é extremamente alta, tanto que o Senhor achou prudente acabar com isso... mas se novas línguas surgiram e hoje podemos realizar feitos incríveis, não estamos na mesma situação do povo de Babel? E se sim, por que Deus não intervém?
+- Primeira menção de [[Abrão]]

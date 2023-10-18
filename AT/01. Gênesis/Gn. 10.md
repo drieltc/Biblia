@@ -1,0 +1,4 @@
+- Gn. 10:5 fala sobre a repartição das línguas
+- Acho engraçado que, do jeito que está escrito, parece que haviam outras pessoas na terra em que eles habitaram
+	- Gn. 10:8 - E Cuxe gerou a Ninrode; **este começou a ser poderoso na terra**
+		- Ora, se alguém é poderoso, então exerce autoridade sobre outrem, porém ele exercia autoridade tal sobre sua família que podia ser chamado de poderoso? Não faz muito sentido.

@@ -1,0 +1,2 @@
+- Noé fez um altar para Deus e ali ofereceu um sacrifício
+	- Seria este o primeiro sacrifício? Daqui que surgiu a tradição dos sacrifícios?

@@ -1,0 +1,2 @@
+- Deus fala a Noé para tomar os "animais limpos" em sete machos e sete fêmeas. Para os animais não limpos, apenas 1 macho e 1 fêmea
+	- Isso implica que já havia a distinção entre animais puros e impuros. Mas de onde veio isso?

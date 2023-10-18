@@ -1,0 +1,6 @@
+- O texto começa falando sobre o encontro do Senhor com [[Abrão]]
+	- Não há motivo aparente no texto. Por mais que Abrão fosse da descendência de [[Sete]]/[[Enos]], existiam muitos outros descendentes destes... então por que Abrão, especificamente?
+- Deus diz para Abrão sair caminhando por aí até chegar numa terra que seria mostrada a ele, e assim Abrão fez. Tomou sua família e foi caminhando e construindo altares a Deus no caminho
+---
+- No Egito Abrão e [[Sarai]] dizem que são irmãos, para que não matassem a Abrão
+	- Aparentemente o Faraó a toma por esposa, e Deus o fere por isso. De alguma forma o Faraó descobre e manda que eles saiam dali

@@ -2,3 +2,4 @@
 - Deus via a maldade no coração do povo e "se arrependeu" de ter criado o homem
 	- Me pergunto como isso se choca com a passagem de "Deus não é homem para que minta nem filho do Homem para que se arrependa". Certamente é apenas um problema de tradução, então é bom aprender hebraico e ver o texto original
 - Decidido a matar o povo da terra, Deus viu graça em Noé e decide avisá-lo para que dele a terra fosse repopulada.
+- Versículo 4 menciona a existência de gigantes

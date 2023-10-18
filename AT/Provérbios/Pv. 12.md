@@ -1,0 +1,2 @@
+- O versículo 9 traz um ensinamento sobre humildade e conquistas. Melhor é ser um desconhecido e ter muitos servos do que honrar a si mesmo e não ter pão.
+	- Dessa forma, é dever do homem (humano) buscar seu sustento, seu pão, antes de procurar outras coisas
