@@ -1,0 +1,2 @@
+- 20 - Acredito que daqui surgiu o "dize-me com quem tu andas que direi quem tu és". De qualquer modo, se rodear de pessoas sábias é um bom caminho para ser sábio
+- 24 - Quem ama corrige,

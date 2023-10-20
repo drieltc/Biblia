@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4373243695a359",
+        "id": "5fc7630821f09b33",
         "type": "tabs",
         "children": [
           {
-            "id": "00202e9b3b6e9ab5",
+            "id": "6e13299348245344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT/Provérbios/Pv. 8.md",
+                "file": "AT/Provérbios/Pv. 12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,199 +21,20 @@
             }
           },
           {
-            "id": "936b69bf17b42dec",
+            "id": "d3e37519fb476be6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT/Provérbios/Pv. 9.md",
+                "file": "AT/Provérbios/Pv. 13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9d2b6cff69249733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ed6780b3b5ff1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4824be18ade7f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "127abadfd04f316f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98bfeb1d3e2235f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "512e757a93efd857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e69fab7afba6fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d35ee25f2751a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f18ff432f105d7d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cedadab84e766882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "300ae8fb01037586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bcf93775e888590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d57004d70d320a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5812fd1411cc0397",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/01. Gênesis/Gn. 13.md",
+                "file": "AT/Provérbios/Pv. 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/01. Gênesis/Gn. 13.md",
+                "file": "AT/Provérbios/Pv. 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/01. Gênesis/Gn. 13.md"
+                "file": "AT/Provérbios/Pv. 13.md"
               }
             }
           }
@@ -352,26 +173,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d57004d70d320a8a",
+  "active": "d3e37519fb476be6",
   "lastOpenFiles": [
-    "AT/01. Gênesis/Gn. 12.md",
-    "AT/01. Gênesis/Gn. 13.md",
-    "AT/01. Gênesis/Gn. 4.md",
-    "Notas/Pessoas/Sete.md",
-    "AT/01. Gênesis/Gn. 11.md",
-    "AT/01. Gênesis/Gn. 10.md",
-    "AT/01. Gênesis/Gn. 9.md",
     "AT/Provérbios/Pv. 12.md",
-    "AT/Provérbios/Pv. 11.md",
-    "AT/Provérbios/Pv. 10.md",
-    "AT/01. Gênesis/Gn. 6.md",
-    "AT/01. Gênesis/Gn. 8.md",
-    "AT/01. Gênesis/Gn. 7.md",
+    "AT/Provérbios/Pv. 13.md",
+    "AT/01. Gênesis/Gn. 15.md",
+    "Notas/Pessoas/Jeová.md",
+    "AT/01. Gênesis/Gn. 13.md",
+    "AT/01. Gênesis/Gn. 14.md",
+    "AT/Provérbios/Pv. 8.md",
     "AT/Provérbios/Pv. 9.md",
+    "AT/01. Gênesis/Gn. 4.md",
     "AT/01. Gênesis/Gn. 5.md",
+    "AT/01. Gênesis/Gn. 6.md",
+    "AT/01. Gênesis/Gn. 7.md",
+    "AT/01. Gênesis/Gn. 8.md",
+    "AT/Provérbios/Pv. 10.md",
+    "AT/Provérbios/Pv. 11.md",
+    "AT/01. Gênesis/Gn. 9.md",
+    "AT/01. Gênesis/Gn. 10.md",
+    "AT/01. Gênesis/Gn. 11.md",
+    "AT/01. Gênesis/Gn. 12.md",
+    "Notas/Pessoas/Sete.md",
     "AT/01. Gênesis",
     "Untitled",
-    "AT/Provérbios/Pv. 8.md",
     "NT/2. Cartas/0X. 1 Timóteo/1 Tm. 4.md",
     "AT/Provérbios/Pv. 7.md",
     "NT/2. Cartas/0X. 1 Timóteo",
@@ -380,10 +205,6 @@
     "NT/0. Evangelhos/04. João/Jo. 7.md",
     "NT/0. Evangelhos/04. João/Jo. 8.md",
     "NT/0. Evangelhos/04. João/Jo. 9.md",
-    "AT/Provérbios/Pv. 2.md",
-    "AT/Provérbios/Pv. 3.md",
-    "AT/Provérbios/Pv. 4.md",
-    "AT/Provérbios/Pv. 5.md",
     "Untitled.canvas",
     "NT/2. Cartas/01. Romanos",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",

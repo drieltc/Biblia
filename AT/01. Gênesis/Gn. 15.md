@@ -1,0 +1,3 @@
+- Depois dos acontecimentos passados Deus fala com [[Abrão]], o conforta e lhe promete um filho
+	- Abrão chama Deus de "Senhor [[Jeová]]", indicando que Abrão, de fato, conhecia a Deus e não por acaso foi chamado de "Amigo de Deus".
+- Na conversa Deus já fala sobre os 400 anos de cativeiro que o futuro povo de Israel iria passar

@@ -1,0 +1,1 @@
+[[Abrão]] e [[Ló]] se separam. Este vai para Sodoma

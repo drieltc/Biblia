@@ -1,0 +1,1 @@
+Nome próprio de Deus. יה-וה
