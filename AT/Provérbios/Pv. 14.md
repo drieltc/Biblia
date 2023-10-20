@@ -1,0 +1,1 @@
+29 - Tenha paciência, pois dos sábios ela é companheira, mas os precipitados são insensatos

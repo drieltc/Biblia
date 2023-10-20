@@ -26,7 +26,72 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "AT/01. Gênesis/Gn. 15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a1063da31436331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/01. Gênesis/Gn. 16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b74170e3cb6c527a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/01. Gênesis/Gn. 17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5e998f70a106ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "AT/Provérbios/Pv. 13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f7392c544194d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/Provérbios/Pv. 14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8bbdeac3e8bd77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/0. Evangelhos/03. Lucas/Lc. 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/Provérbios/Pv. 13.md",
+                "file": "AT/Provérbios/Pv. 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/Provérbios/Pv. 13.md",
+                "file": "AT/Provérbios/Pv. 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/Provérbios/Pv. 13.md"
+                "file": "AT/Provérbios/Pv. 14.md"
               }
             }
           }
@@ -173,11 +238,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3e37519fb476be6",
+  "active": "1f7392c544194d80",
   "lastOpenFiles": [
-    "AT/Provérbios/Pv. 12.md",
     "AT/Provérbios/Pv. 13.md",
+    "AT/Provérbios/Pv. 14.md",
+    "AT/Provérbios/Untitled.md",
+    "AT/01. Gênesis/Gn. 18.md",
+    "AT/01. Gênesis/Gn. 17.md",
+    "AT/01. Gênesis/Gn. 16.md",
+    "NT/0. Evangelhos/03. Lucas/Lc. 1.md",
+    "NT/0. Evangelhos/04. João/Jo. 1.md",
+    "NT/0. Evangelhos/01. Mateus/Mt. 8.md",
+    "NT/0. Evangelhos/01. Mateus/Mt. 6.md",
+    "NT/0. Evangelhos/01. Mateus/Mt. 4.md",
+    "NT/0. Evangelhos/01. Mateus/Mt. 3.md",
+    "NT/0. Evangelhos/01. Mateus/Mt. 1.md",
+    "AT/Provérbios/Pv. 3.md",
     "AT/01. Gênesis/Gn. 15.md",
+    "AT/Provérbios/Pv. 12.md",
     "Notas/Pessoas/Jeová.md",
     "AT/01. Gênesis/Gn. 13.md",
     "AT/01. Gênesis/Gn. 14.md",
@@ -188,23 +266,10 @@
     "AT/01. Gênesis/Gn. 6.md",
     "AT/01. Gênesis/Gn. 7.md",
     "AT/01. Gênesis/Gn. 8.md",
-    "AT/Provérbios/Pv. 10.md",
-    "AT/Provérbios/Pv. 11.md",
-    "AT/01. Gênesis/Gn. 9.md",
-    "AT/01. Gênesis/Gn. 10.md",
-    "AT/01. Gênesis/Gn. 11.md",
-    "AT/01. Gênesis/Gn. 12.md",
-    "Notas/Pessoas/Sete.md",
     "AT/01. Gênesis",
     "Untitled",
-    "NT/2. Cartas/0X. 1 Timóteo/1 Tm. 4.md",
-    "AT/Provérbios/Pv. 7.md",
     "NT/2. Cartas/0X. 1 Timóteo",
     "NT/2. Cartas/01. Romanos/Untitled",
-    "AT/Provérbios/Pv. 6.md",
-    "NT/0. Evangelhos/04. João/Jo. 7.md",
-    "NT/0. Evangelhos/04. João/Jo. 8.md",
-    "NT/0. Evangelhos/04. João/Jo. 9.md",
     "Untitled.canvas",
     "NT/2. Cartas/01. Romanos",
     "TIS_-_A07_-_apresentacao_jogo_pedagogico.pdf",
