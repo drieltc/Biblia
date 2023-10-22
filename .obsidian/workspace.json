@@ -78,7 +78,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT/Provérbios/Pv. 14.md",
+                "file": "AT/01. Gênesis/Gn. 18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bd0ead9779c4a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/01. Gênesis/Gn. 21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b087ef00096d5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/01. Gênesis/Gn. 22.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f9f764fdb38049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/Provérbios/Pv. 15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -173,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/Provérbios/Pv. 14.md",
+                "file": "AT/Provérbios/Pv. 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/Provérbios/Pv. 14.md",
+                "file": "AT/Provérbios/Pv. 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/Provérbios/Pv. 14.md"
+                "file": "AT/Provérbios/Pv. 15.md"
               }
             }
           }
@@ -238,14 +277,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f7392c544194d80",
+  "active": "72f9f764fdb38049",
   "lastOpenFiles": [
-    "AT/Provérbios/Pv. 13.md",
-    "AT/Provérbios/Pv. 14.md",
-    "AT/Provérbios/Untitled.md",
-    "AT/01. Gênesis/Gn. 18.md",
-    "AT/01. Gênesis/Gn. 17.md",
+    "AT/01. Gênesis/Gn. 23.md",
     "AT/01. Gênesis/Gn. 16.md",
+    "AT/01. Gênesis/Gn. 17.md",
+    "AT/01. Gênesis/Gn. 18.md",
+    "AT/01. Gênesis/Gn. 21.md",
+    "AT/01. Gênesis/Gn. 22.md",
+    "AT/01. Gênesis/Gn. 4.md",
+    "AT/Provérbios/Pv. 14.md",
+    "AT/Provérbios/Pv. 13.md",
+    "AT/Provérbios/Pv. 15.md",
     "NT/0. Evangelhos/03. Lucas/Lc. 1.md",
     "NT/0. Evangelhos/04. João/Jo. 1.md",
     "NT/0. Evangelhos/01. Mateus/Mt. 8.md",
@@ -261,11 +304,7 @@
     "AT/01. Gênesis/Gn. 14.md",
     "AT/Provérbios/Pv. 8.md",
     "AT/Provérbios/Pv. 9.md",
-    "AT/01. Gênesis/Gn. 4.md",
     "AT/01. Gênesis/Gn. 5.md",
-    "AT/01. Gênesis/Gn. 6.md",
-    "AT/01. Gênesis/Gn. 7.md",
-    "AT/01. Gênesis/Gn. 8.md",
     "AT/01. Gênesis",
     "Untitled",
     "NT/2. Cartas/0X. 1 Timóteo",

@@ -1,0 +1,2 @@
+- Sara morre e Abraão insiste em pagar pela melhor das sepulturas da região, mesmo o povo insistindo que ele apenas usasse a sepultura, pois era "príncipe de Deus" entre eles
+`Certamente Abraão foi chamado assim porque trouxe prosperidade àquele local e fazia o bem para com o povo, e por causa disso, como forma de recompensá-lo, queriam lhe dar a melhor sepultura`

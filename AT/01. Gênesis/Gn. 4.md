@@ -6,5 +6,4 @@
 	- Jubal, pai dos que tocam arpa e órgão
 	- Tubalcaim, pai dos que trabalhavam com ferro e cobre
 - Adão e Eva tiveram [[Sete]] pois Deus havia dado a Eva uma semente no lugar de [[Abel]]
-- De Sete nasceu [[Enos]], então se comecóu a invocar o nome do Senhor
-	- Enos é o "pai" do judaismo?
+- De Sete nasceu [[Enos]], então se começou a invocar o nome do Senhor

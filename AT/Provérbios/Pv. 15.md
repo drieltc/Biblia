@@ -1,0 +1,2 @@
+- 1: Trate as pesoas com educação, para que contra ti não se irem
+- 
