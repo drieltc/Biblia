@@ -1,0 +1,2 @@
+- [[Esaú]] aparentemente sente inveja de [[Jacó]], uma vez que [[Isaque]], ao despedir Jacó, diz para que ele não se case com mulheres cananeias, indo de encontro ao que Esaú fizera quando tomou suas primeiras mulheres. Então ele vai e toma algumas das filhas de Labão como esposas, para tentar ficar melhor na fita
+- Até agora a Bíblia não entrou em muitos detalhes sobre o relacionamento de Jacó com Deus. Do nada Deus aparece a Jacó durante a noite.

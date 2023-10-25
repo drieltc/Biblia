@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e13299348245344",
+            "id": "f71bee1cc7995595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT/Provérbios/Pv. 12.md",
+                "file": "AT/01. Gênesis/Gn. 27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d3e37519fb476be6",
+            "id": "4c157e7e05257d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT/01. Gênesis/Gn. 15.md",
+                "file": "AT/01. Gênesis/Gn. 28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,85 +34,7 @@
             }
           },
           {
-            "id": "7a1063da31436331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b74170e3cb6c527a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e998f70a106ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/Provérbios/Pv. 13.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7392c544194d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd0ead9779c4a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b087ef00096d5ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/01. Gênesis/Gn. 22.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72f9f764fdb38049",
+            "id": "573fe6d5ac86ebcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,12 +47,12 @@
             }
           },
           {
-            "id": "d8bbdeac3e8bd77e",
+            "id": "40b54eeb71ae13b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/0. Evangelhos/03. Lucas/Lc. 1.md",
+                "file": "AT/Provérbios/Pv. 16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/Provérbios/Pv. 15.md",
+                "file": "AT/Provérbios/Pv. 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/Provérbios/Pv. 15.md",
+                "file": "AT/Provérbios/Pv. 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/Provérbios/Pv. 15.md"
+                "file": "AT/Provérbios/Pv. 16.md"
               }
             }
           }
@@ -277,8 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72f9f764fdb38049",
+  "active": "40b54eeb71ae13b3",
   "lastOpenFiles": [
+    "AT/Provérbios/Pv. 15.md",
+    "AT/Provérbios/Pv. 16.md",
+    "AT/01. Gênesis/Gn. 29.md",
+    "AT/01. Gênesis/Gn. 28.md",
+    "AT/01. Gênesis/Gn. 27.md",
     "AT/01. Gênesis/Gn. 23.md",
     "AT/01. Gênesis/Gn. 16.md",
     "AT/01. Gênesis/Gn. 17.md",
@@ -288,7 +215,6 @@
     "AT/01. Gênesis/Gn. 4.md",
     "AT/Provérbios/Pv. 14.md",
     "AT/Provérbios/Pv. 13.md",
-    "AT/Provérbios/Pv. 15.md",
     "NT/0. Evangelhos/03. Lucas/Lc. 1.md",
     "NT/0. Evangelhos/04. João/Jo. 1.md",
     "NT/0. Evangelhos/01. Mateus/Mt. 8.md",
@@ -301,10 +227,6 @@
     "AT/Provérbios/Pv. 12.md",
     "Notas/Pessoas/Jeová.md",
     "AT/01. Gênesis/Gn. 13.md",
-    "AT/01. Gênesis/Gn. 14.md",
-    "AT/Provérbios/Pv. 8.md",
-    "AT/Provérbios/Pv. 9.md",
-    "AT/01. Gênesis/Gn. 5.md",
     "AT/01. Gênesis",
     "Untitled",
     "NT/2. Cartas/0X. 1 Timóteo",
