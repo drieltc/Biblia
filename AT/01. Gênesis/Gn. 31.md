@@ -1,0 +1,5 @@
+- [[Labão]] não cumpria com sua parte do acordo e sempre mudava os termos. [[Jacó]] percebe isso e o Senhor lhe dá a estratégia para tomar os rebanhos de Labão e fugir de volta para casa.
+- Jacó avisa suas esposas e [[Raquel]] pega um dos ítens que eram de Labão antes da fuga
+- Eventualmente Labão encontra Jacó, mas é avisado por Deus, em sonho, que não lhe fizesse mal
+- Os dois discutem sobre a fuga e decidem fazer outro pacto: Jacó não maltrataria as filhas de Labão nem tomaria outras esposas e Labão não iria em sua direção
+- A família se despede e acó se prepara para encontrar com Esaú

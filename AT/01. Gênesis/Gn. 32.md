@@ -1,0 +1,6 @@
+- [[Jacó]] prepara várias caravanas para o encontro com Esaú, que mandou 400 homens ao encontro com Jacó (o coitado ficou com medo do irmão e separou as caravanas)
+	- Umas tinham presentes, para o caso de [[Esaú]] o receber com hostilidade e se acalmar com os presentes
+	- Outras tinham as pessoas e alguns bens, para que, no eventual ataque a um dos grupos, o outro ficasse vivo
+- Jacó faz uma linda oração, pedindo a Deus que seu irmão tivesse misericórdia, e falando de todas as bondades e Deus em sua vida
+- Depois de preparar os grupos, Jacó ficou sozinho lutou com um homem até o amanhecer
+ - Após a luta o homem diz a Jacó que seu nome agora seria [[Israel]], pois havia lutado com Deus e com homens e venceu

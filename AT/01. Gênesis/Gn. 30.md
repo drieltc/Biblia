@@ -1,0 +1,6 @@
+- [[Raquel]] fica com inveja de [[Leia]] e dá sua serva para [[Jacó]] ter filhos, já que era estéril
+- Leia, posteriormente, fez a mesma coisa: deu sua serva para ter filhos com Jacó
+- Eventualmente, Raquel engravidou de [[José]]
+---
+- Jacó pede a [[Labão]] que o deixase voltar para sua terra natal
+- Jacó e Labão entam em acordo para que Jacó tomasse uma parte do rebanho de Labão antes de voltar
