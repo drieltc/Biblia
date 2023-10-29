@@ -1,0 +1,6 @@
+- Ao perceber que [[Esaú]] se aproximava, [[Jacó]] divide as crianças entre [[Leia]], [[Raquel]] e as servas
+	- As servas e os filhos na frente, Leia atrás e Raquel com [[José]] por último
+		- `Pode ser porque José era o mais novo? Sim. Mas prefiro acreditar que foi por causa de seu amor por Raquel que ele a deixou por último`
+- Após isso, Jacó fica à frente do comboio, para ser o primeiro a ver seu irmão e se curvar diante dele
+- Para a surpresa de Jacó, foi muito bem recebido por seu irmão
+- Em [[Siquém]] Jacó edificou um altar a Deus

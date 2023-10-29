@@ -1,0 +1,1 @@
+- 14: Acho que daqui surgiu o costume de se orar pela futura esposa que vemos na sociedade cirstã atualmente.
