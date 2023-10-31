@@ -1,14 +1,3 @@
-- Deus manda que [[Jacó]] vá a [[Betel]] e faça um altar a Ele, e assim preparou todos para a viagem.
-	- Nessa preparação, uma das ordens foi para se livrarem de todos os deuses estrangeiros que haviam no meio do povo.
-- Quando partiram para viajar "O Temor de Deu cai de tal maneira sobre as cidades ao redor que ninguém ousou perseguir os filhos de Jacó"
-	- `Não sei se as cidades vizinhas poderiam ir atrás de Jacó e sua tropa por causa do acontecido em Siquém, mas o fato é que não foram`
-- Jacó chega em Betel e constrói o altar
-- Ao retornar Deus aparece a ele mais uma vez e fala mais uma vez que seu nome agora seria Israel. Diz que dele sairiam muitos descendentes, comunidades  de nações e reis
-- Após ouvir do Senhor, Jacó fez uma oferta a Deus
----
-- Quando saíram de Betel e estavam perto de [[Efrata]] Raquel entrou em trabalho de parto
-	- Com muita dificuldade ela deu a luz a Benoni e morreu
-	- Jacó mudou o nome de Benoni para Benjamim
-	- Raquel foi enterrada ali
-		- `O texto dá a enteder que foi enterrada no que se conhecia, na época em que foi escrito, como Belém`
-- Após receber visita de seu filho Israel, Isaque morre aos 180 anos 
+- O texto agora foca nos descendentes de [[Esaú]]
+- Esaú é o pai dos [[Edomitas]]
+	- `Um dos filhos de Esaú se chamava Amaleque, então é provável que seja ascendente dos amalequitas, mas o texto não explicita isso`

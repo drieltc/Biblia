@@ -1,0 +1,7 @@
+- [[José]] tem os sonhos
+- Irmãos de José planejam matá-lo
+- [[Rúben]] Convence-os a não matarem seu irmão, mas deixarem ele num poço e depois levá-lo a [[Jacó]]
+- [[Judá]] vê alguns [[Ismaelitas]] (que mais à frente no texto são chamados de [[Midianitas]]) e vende seu irmão por 20 moedas de prata
+- Rúben viu que o irmão não estava mais no local onde fora jogado e rasgou suas vestes
+- Os irmãos decidem matar um animal e banhar a túnica de José no sangue do animal, para que Jacó acreditasse que o menino tivesse ido morto por uma fera
+- Os midianitas vendem José a [[Potifar]], oficial do faraó e capitão da guarda

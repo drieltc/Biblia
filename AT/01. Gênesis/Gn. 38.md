@@ -1,0 +1,15 @@
+- [[Judá]] deixou seus irmãos e foi viver na terra de [[Adulão]]
+- Ali teve ele três fihos
+- Quando o mais velho ([[Er]]) cresceu, recebeu uma mulher ([[Tamar]]) em casamento
+- Deus não aprovava as condutas de Er, então o matou
+- Tamar agora seria casada com seu cunhado [[Onã]]
+- Onã não queria dar descendentes a seu irmão, por isso sempre derramava o sêmen no chão quando se relacionava com Tamar
+	- Por causa disso Deus o matou
+- Tamar voltou à casa de seu pai e ficaria lá até que o mais novo ([[Selá]]) tivesse idade de casar
+- Passou-se muito tempo, a esposa de Judá já havia morrido, mas Tamar ainda continuava como viúva
+- Tamar decide vestir-se de prostituta e deitar-se com Judá ao saber que ele estaria passando pela região
+	- Como parte do acordo, Judá deu alguns bens como forma de garantia
+	- Após o ato, Tamar voltou à casa deu seu pai com alguns dos bens de Judá
+- Três meses se passam e Judá fica sabendo que Tamar estava grávida. Pede que a tragam em sua presença para explicar essa história
+- Tamar mostra que estava grávida de Judá lhe mostrando os pertences que havia tomado como garantia
+- Tamar deu luz a gêmeos: Perez e Zerá
