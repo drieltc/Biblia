@@ -1,0 +1,3 @@
+- O [[Faraó]] tem um sonho e, por acaso, o copeiro do capítulo passado se lembra de [[José]] e sua capacidade de interpretar sonhos
+- O Faraó conta o sonho a José, e a interpretação do sonho lhe é dada
+- Tamanho foi o choque do Faraó que ali mesmo decidiu fazer de José governador sobre todo o Egito, para que, sob o comando dele, o povo se preparasse para o período de seca

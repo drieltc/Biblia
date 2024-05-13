@@ -1,0 +1,4 @@
+- O copeiro e o padeiro do Faraó foram lançados na mesma prisão que [[José]] estava
+- Lá tiveram sonhos e José os interpreta
+	- `Obviamente o texto é bem suscinto em narrar a conversa entre eles, já que foi escrito muitos anos depois, mas do jeito que está, dá a entender que José estava bem confiante ao falar que Deus poderia lhe dizer o significado dos sonhos. O rapaz tinha fé.`
+- 

@@ -1,0 +1,3 @@
+- Deus estava com [[José]], de modo que tudo quanto fazia prosperava. Isso fez com que [[Potifar]] o deixasse encarregado de todos os seus afazeres, e tudo ia bem
+- Certa vez a mulher de Potifar tentou se deitar com José, mas ele fugiu. No calor da correria uma de suas roupas ficou na mão da moça. E ela contou para seu marido, que mandou prender José
+- Deus estava com José, de modo que tudo quando fazia prosperava. Isso fez com que o carcereiro da prisão o deixasse encarregado sobre os presos, e tudo ia bem

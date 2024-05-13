@@ -1,9 +1,0 @@
-- Depois que Deus não se atentou à oferta de Caim, ele ficou irado. Porém Deus o questiona e, em Seu questionamento, diz a Caim que basta fazer o bem (neste caso, entregar a melhor oferta) que Deus se atentaria a oferta dele. Entretanto, se não fizesse, o pecado estaria à porta, querendo conquistá-lo, mas Caim deveria dominá-lo
-	- Quando não fazemos o melhor para o Senhor, deixamo-nos expostos ao pecado. Devemos, sim, conseguir dominar o pecado, mas sabemos que somos fracos e devemos fugir do pecado. No fim das contas, melhor é fazer o melhor e estar mais seguro, um pouco mais distante do pecado. Melhor obedecer do que sacrificar.
-- Caim ficou com uma marca dada por Deus para que quem o achasse não o ferisse.
-- Da descendência de Caim veio
-	- Jabal, pai dos criadores de gado e habitantes de tendas (acho que fazedores de tendas é mais adequado)
-	- Jubal, pai dos que tocam arpa e órgão
-	- Tubalcaim, pai dos que trabalhavam com ferro e cobre
-- Adão e Eva tiveram [[Sete]] pois Deus havia dado a Eva uma semente no lugar de [[Abel]]
-- De Sete nasceu [[Enos]], então se começou a invocar o nome do Senhor
