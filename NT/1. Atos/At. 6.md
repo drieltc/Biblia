@@ -1,7 +1,7 @@
 # A Instituição dos Diáconos
 [[At. 6]] 1-7
 - O número de discípulos estava crescendo
-- Os cirstãos gregos se queixaram dos cristãos hebreus pois as viúvas gregas estavam sendo desprezadas no ministério cotidiano
+- Os cristãos gregos se queixaram dos cristãos hebreus pois as viúvas gregas estavam sendo desprezadas no ministério cotidiano
 > Na tradução NVI diz que estavam sendo esquecidas na distribuiçao diária de alimento
 - Os [[Apóstolos]] se reuniram para deliberar 7 gregos para que fosse passada essa tarefa pois não era certo que eles negligenciassem a palavra de Deus à fim de servir às mesas
 - Todos concordaram e os 7 escolhidos foram [[Estêvão]], [[Filipe]], [[Prócoro]], [[Nicanor]], [[Timom/Timão]], [[Pármenas]] e [[Nicolau]]
