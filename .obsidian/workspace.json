@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT/07. Juízes/0. Intro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e11872720730185b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/20. Provérbios/0. Intro.md",
+                "file": "NT/26. Apocalipse/Ap. 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/20. Provérbios/0. Intro.md",
+                "file": "NT/26. Apocalipse/Ap. 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/20. Provérbios/0. Intro.md",
+                "file": "NT/26. Apocalipse/Ap. 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/20. Provérbios/0. Intro.md"
+                "file": "NT/26. Apocalipse/Ap. 2.md"
               }
             }
           }
@@ -173,34 +159,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e11872720730185b",
+  "active": "3c19a950bc356daa",
   "lastOpenFiles": [
-    "AT/19. Salmos/0. Intro.md",
-    "AT/09. 1Samuel/0. Intro.md",
-    "AT/08. Rute/0. Intro.md",
-    "NT/2. Cartas/01. Romanos/Rm. 3.md",
-    "NT/5. Romanos/Rm. 3.md",
-    "NT/5. Romanos/Rm. 2.md",
-    "NT/5. Romanos/Rm. 1.md",
-    "NT/14. 1 Timóteo/1 Tm. 4.md",
-    "NT/3. João/Jo. 7.md",
-    "NT/3. João/Jo. 6.md",
-    "NT/3. João/Jo. 5.md",
-    "NT/3. João/Jo. 4.md",
-    "NT/3. João/Jo. 3.md",
-    "NT/3. João/Jo. 2.md",
-    "NT/3. João/Jo. 1.md",
-    "NT/3. João/Jo. 10.md",
-    "NT/3. João/Jo. 9.md",
-    "NT/3. João/Jo. 8.md",
-    "NT/2. Lucas/Lc. 8.md",
-    "NT/2. Lucas/Lc. 7.md",
-    "NT/2. Lucas/Lc. 6.md",
-    "NT/2. Lucas/Lc. 5.md",
-    "NT/2. Lucas/Lc. 4.md",
-    "NT/2. Lucas/Lc. 3.md",
-    "NT/2. Lucas/Lc. 2.md",
-    "NT/2. Lucas/Lc. 1.md",
+    "NT/4. Atos/At. 27.md",
+    "Notas/Lugares/Fenice.md",
+    "Notas/Lugares/Galileia.md",
+    "NT/26. Apocalipse/Ap. 2.md",
+    "Notas/Lugares/Trono de Deus.md",
+    "NT/26. Apocalipse/Ap. 1.md",
+    "AT/01. Gênesis/0. Intro.md",
+    "AT/01. Gênesis/Gn. 5.md",
+    "Notas/Outros/Árvore da Vida.md",
+    "README.md",
+    "NT/26. Apocalipse/0. Intro.md",
+    "Notas/Títulos/Cristo.md",
+    "Notas/Títulos",
+    "AT/07. Juízes/0. Intro.md",
+    "NT/5-25. Cartas",
+    "NT/1. Atos/At. 28.md",
+    "NT/4. Atos/At. 28.md",
+    "NT/4. Atos/At. 26.md",
+    "NT/4. Atos/At. 25.md",
+    "NT/4. Atos/At. 24.md",
+    "NT/4. Atos/At. 23.md",
+    "NT/4. Atos/At. 22.md",
+    "NT/4. Atos/At. 21.md",
+    "NT/4. Atos/At. 20.md",
+    "NT/4. Atos/At. 19.md",
+    "NT/4. Atos/At. 18.md",
+    "NT/4. Atos/At. 17.md",
+    "NT/4. Atos/At. 16.md",
+    "NT/0-4. Evangelhos",
     "AT/20. Provérbios",
     "AT/criador.py",
     "23. Jeremias",
@@ -208,9 +197,6 @@
     "21. Eclesiastes",
     "20. Provérbios",
     "19. Salmos",
-    "18. Jó",
-    "17. Ester",
-    "16. Neemias",
     "Untitled.canvas"
   ]
 }
