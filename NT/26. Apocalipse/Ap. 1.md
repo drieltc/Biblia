@@ -12,7 +12,7 @@
 > "que atestou a palavra de Deus e o testemunho de Jesus Cristo, quanto a tudo que viu." (Ap. 1:2 NAA)
 - Em outras palavras, tudo o que João viu foi anotado na carta.
 
-# Saudaçõe
+# Saudações
 
 > Ap. 1:4-5
 > "Que a graça e a paz estejam com vocês, da parte daquele que é, que era e que há de vir, da parte dos sete espíritos que estão diante do seu trono e da parte de Jesus Cristo, a Fiel Testemunha, o Primogênito dos mortos e o Soberano dos reis da terra." (Ap. 1:4-5 NAA)
@@ -22,6 +22,12 @@
 	- Sete Espíritos diante do [[Trono de Deus]]
 	- Jesus Cristo
 
+> Ap. 1:8
+> '"Eu sou o Alfa e o Ômega”, diz o Senhor Deus, “aquele que é, que era e que há de vir, o Todo-Poderoso.' (Ap.1:8 NAA)
+
+- Alfa e Ômega
+- Aquele que é, que era e que há de vir
+- Todo-Poderoso
 # Visão de Jesus glorificado
 
 > Ap. 1:9

@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "184effdbb887f2f0",
+        "id": "821917148f7ebec6",
         "type": "tabs",
         "children": [
           {
-            "id": "3c19a950bc356daa",
+            "id": "91e7b71d582f019e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/26. Apocalipse/Ap. 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfce86ea14bda93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8eee1c7380cbf263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/26. Apocalipse/Ap. 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rm.1",
+                "query": "tag:#ParabolaDoSemeador",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +151,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -138,15 +165,17 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,19 +188,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c19a950bc356daa",
+  "active": "dfce86ea14bda93b",
   "lastOpenFiles": [
+    "NT/26. Apocalipse/Ap. 3.md",
+    "NT/26. Apocalipse/Ap. 2.md",
+    "NT/26. Apocalipse/Ap. 1.md",
+    "AT/28. Oséias/0. Intro.md",
+    "AT/28. Oséias/Os. 11.md",
+    "NT/26. Apocalipse/0. Intro.md",
+    "NT/4. Atos/Jejum.md",
+    "NT/4. Atos/At. 23.md",
+    "Jejeum.md",
+    "NT/0-4. Evangelhos/2. Lucas/Lc. 8.md",
     "NT/4. Atos/At. 27.md",
     "Notas/Lugares/Fenice.md",
     "Notas/Lugares/Galileia.md",
-    "NT/26. Apocalipse/Ap. 2.md",
     "Notas/Lugares/Trono de Deus.md",
-    "NT/26. Apocalipse/Ap. 1.md",
     "AT/01. Gênesis/0. Intro.md",
     "AT/01. Gênesis/Gn. 5.md",
     "Notas/Outros/Árvore da Vida.md",
     "README.md",
-    "NT/26. Apocalipse/0. Intro.md",
     "Notas/Títulos/Cristo.md",
     "Notas/Títulos",
     "AT/07. Juízes/0. Intro.md",
@@ -181,14 +217,7 @@
     "NT/4. Atos/At. 26.md",
     "NT/4. Atos/At. 25.md",
     "NT/4. Atos/At. 24.md",
-    "NT/4. Atos/At. 23.md",
     "NT/4. Atos/At. 22.md",
-    "NT/4. Atos/At. 21.md",
-    "NT/4. Atos/At. 20.md",
-    "NT/4. Atos/At. 19.md",
-    "NT/4. Atos/At. 18.md",
-    "NT/4. Atos/At. 17.md",
-    "NT/4. Atos/At. 16.md",
     "NT/0-4. Evangelhos",
     "AT/20. Provérbios",
     "AT/criador.py",

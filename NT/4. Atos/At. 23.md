@@ -22,7 +22,7 @@
 - No dia seguinte os judeus tramaram contra a vida de Paulo
 	- Juraram que não iriam comer nem beber nada enquanto Paulo não fosse morto
 	- Eram mais de 40 homens fazendo isso
-	- Foram aos chefes dos [[Sacerdotes]] e avisaram de seu [[Jejeum]] e que iriam matar Paulo se o vissem
+	- Foram aos chefes dos [[Sacerdotes]] e avisaram de seu [[Jejum]] e que iriam matar Paulo se o vissem
 - O sobrinho de Paulo ouve isso e vai avisá-lo na fortaleza
 - Paulo chama um centurião e pede que leve seu sobrinho ao comandante, para que falasse do que tinha ouvido
 - Após contar tudo, o comandante lhe ordena que não falasse a ninguém que tivera essa conversa com ele
