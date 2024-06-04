@@ -7,14 +7,14 @@
 - Aquele que conserva na mão direita as sete estrelas
 - Aquele que anda no meio dos sete candelabros de ouro
 
-## Qualidades
+## Prós
 - Esforço
 - Perseverança
 - Não pode suportar os maus
 - Pôs à prova falsos [[Apóstolos]] e descobriu que são mentirosos
 - Odeia as obras dos [[Nicolaítas]]
 
-## Defeitos
+## Contras
 - Abandonou o primeiro amor
 
 ## Recomendações
@@ -70,6 +70,16 @@
  > Ap. 2:12b NAA
  > "Estas coisas diz aquele que tem a espada afiada de dois gumes."
 
+- Em Pérgamo ficava o [[Trono de Satanás]].
+## Prós
+- O povo daquela igreja não negava a [[Cristo]]
+	- Um certo [[Antipas]], servo de Deus, havia sido morto em Pérgamo. Isso, felizmente, não abalou a fé dos Pergaminhos
+
+## Contras
+- Existiam Pergaminhos que sustentavam a doutrina de [[Balaão]]
+	- "O qual ensinava [[Balaque]] a armar ciladas diante dos filhos de Israel..."
+- Existiam Pergaminhos que seguiam a doutrina dos [[Nicolaítas]]
+
 ## Final
 - "Quem tem ouvidos ouça o que o [[Espírito]] diz às igrejas"
 	- *Frase que se repete várias vezes ao final de cada mensagem à cada igreja*
@@ -80,13 +90,32 @@
 > Ap. 2:18b NAA
 > "Estas coisas diz o Filho de Deus, que tem os olhos como chama de fogo e os pés semelhantes ao bronze polido."
 
+## Prós
+- [[Amor]]
+- [[Fé]]
+- Serviço
+- Perseverança
+- Últimas obras mais numerosas do que as primeiras
+## Contras
+- Tolerar uma [[Jezabel]], que declarava-se profetisa
+	- Deixavam que ela ensinasse
+		- Ela seduzia os Tiatiros a prostituição e a comer coisas sacrificadas a ídolos
+	- A ela foi dado tempo para se arrepender, mas não queira deixar sua imoralidade
+## Avisos
+- A Jezabel
+	 - Haveria de ficar acamada e seus filhos seriam mortos
+ - Aos que com ela adulteram (presente)
+	- Grande tribulação os afligiria caso não se arrependessem
+- Às igrejas
+	- Todas as igrejas saberiam que Ele é aquele que sonda mentes e corações
+- Aos demais (não seguiam seus ensinamentos e não conheceram **coisas profundas de Satanás**)
 ## Final
 - "Ao vencedor, que guardar até o fim as minhas obras, eu lhe darei autoridade sobre as nações, e com cetro de ferro as governará e as reduzirá a pedaços como se fossem objetos de barro, assim como também eu recebi autoridade de meu Pai. E eu lhe darei ainda a estrela da manhã."
 - "Quem tem ouvidos ouça o que o [[Espírito]] diz às igrejas"
 	- *Frase que se repete várias vezes ao final de cada mensagem à cada igreja*
 
 # Observações Finais
-- Jesus sempre cumprimenta as igrejas fazendo referência a alguma coisa que João relata na sua descrição sobre Jesus em [[Ap. 1]]
+- Jesus sempre se apresenta às igrejas fazendo referência a alguma coisa que João relata na sua descrição sobre Jesus em [[Ap. 1]]
 	- Éfeso faz referência aos versículo 12 e 16
 	- Esmirna faz referência aos versículos 17 e 18
 	- Pérgamo faz referência ao versículo 16

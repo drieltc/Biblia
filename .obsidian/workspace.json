@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1bf64fcd96f77cce",
+        "id": "db07442fae9ed133",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ec1b9a03964afe",
+            "id": "967ecc6c7968ca10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AT/30. Amós/0. Intro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8b71518be0f053d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AT/30. Amós/Am. 5.md",
+                "file": "NT/26. Apocalipse/Ap. 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/30. Amós/Am. 5.md",
+                "file": "NT/26. Apocalipse/Ap. 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/30. Amós/Am. 5.md",
+                "file": "NT/26. Apocalipse/Ap. 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/30. Amós/Am. 5.md"
+                "file": "NT/26. Apocalipse/Ap. 3.md"
               }
             }
           }
@@ -175,14 +161,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e8b71518be0f053d",
+  "active": "967ecc6c7968ca10",
   "lastOpenFiles": [
+    "NT/26. Apocalipse/Ap. 2.md",
+    "NT/26. Apocalipse/Ap. 3.md",
+    "AT/31. Obadias/Ob. 1.md",
+    "Notas/Livros/Obadias.md",
+    "AT/31. Obadias/0. Intro.md",
+    "Notas/Pessoas/Profetas/Joel.md",
+    "Notas/Pessoas/Profetas/Obadias.md",
+    "AT/31. Obadias/Untitled.md",
+    "Notas/Livros/1. Gênesis.md",
     "AT/30. Amós/0. Intro.md",
     "AT/30. Amós/Am. 5.md",
     "README.md",
     "Notas/Outros/Jejum.md",
-    "NT/26. Apocalipse/Ap. 2.md",
-    "NT/26. Apocalipse/Ap. 3.md",
     "NT/26. Apocalipse/Ap. 1.md",
     "AT/28. Oséias/0. Intro.md",
     "AT/28. Oséias/Os. 11.md",
@@ -196,15 +189,8 @@
     "Notas/Lugares/Trono de Deus.md",
     "AT/01. Gênesis/0. Intro.md",
     "AT/01. Gênesis/Gn. 5.md",
-    "Notas/Outros/Árvore da Vida.md",
-    "Notas/Títulos/Cristo.md",
     "Notas/Títulos",
-    "AT/07. Juízes/0. Intro.md",
     "NT/5-25. Cartas",
-    "NT/1. Atos/At. 28.md",
-    "NT/4. Atos/At. 28.md",
-    "NT/4. Atos/At. 26.md",
-    "NT/4. Atos/At. 25.md",
     "NT/0-4. Evangelhos",
     "AT/20. Provérbios",
     "AT/criador.py",
