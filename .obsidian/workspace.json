@@ -21,6 +21,38 @@
             }
           }
         ]
+      },
+      {
+        "id": "40d22c8858a538c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6078bcba03f2e44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/26. Apocalipse/Ap. 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1c79e550a0d894b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/26. Apocalipse/Ap. 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +195,16 @@
   },
   "active": "967ecc6c7968ca10",
   "lastOpenFiles": [
-    "NT/26. Apocalipse/Ap. 2.md",
+    "Notas/Outros/Dignidade.md",
     "NT/26. Apocalipse/Ap. 3.md",
+    "NT/26. Apocalipse/Cartas às Sete Igrejas da Ásia.md",
+    "NT/26. Apocalipse/Ap. 1.md",
+    "Notas/Livros/Cartas",
+    "Notas/Grupos e Seitas/Judeus.md",
+    "NT/26. Apocalipse/Ap. 2.md",
+    "NT/26. Apocalipse/[Dignidade].md",
+    "NT/26. Apocalipse/[[Dignidade]].md",
+    "Notas/Títulos/Cristo.md",
     "AT/31. Obadias/Ob. 1.md",
     "Notas/Livros/Obadias.md",
     "AT/31. Obadias/0. Intro.md",
@@ -176,19 +216,12 @@
     "AT/30. Amós/Am. 5.md",
     "README.md",
     "Notas/Outros/Jejum.md",
-    "NT/26. Apocalipse/Ap. 1.md",
     "AT/28. Oséias/0. Intro.md",
     "AT/28. Oséias/Os. 11.md",
     "NT/26. Apocalipse/0. Intro.md",
     "NT/4. Atos/Jejum.md",
     "NT/4. Atos/At. 23.md",
     "NT/0-4. Evangelhos/2. Lucas/Lc. 8.md",
-    "NT/4. Atos/At. 27.md",
-    "Notas/Lugares/Fenice.md",
-    "Notas/Lugares/Galileia.md",
-    "Notas/Lugares/Trono de Deus.md",
-    "AT/01. Gênesis/0. Intro.md",
-    "AT/01. Gênesis/Gn. 5.md",
     "Notas/Títulos",
     "NT/5-25. Cartas",
     "NT/0-4. Evangelhos",
@@ -198,7 +231,6 @@
     "22. Cantares",
     "21. Eclesiastes",
     "20. Provérbios",
-    "19. Salmos",
     "Untitled.canvas"
   ]
 }

@@ -43,7 +43,7 @@
 > "Conheço a tribulação pela qual você está passando, a sua pobreza — embora você seja rico — e a blasfêmia dos que se declaram judeus e não são,  sendo, isto sim, sinagoga de Satanás."
 
 - Uma das poucas igrejas que Jesus não começa com "conheço suas obras".
-- Em Esmirna haviam muitos [[judeus helenísticos]]. Por causa disso, conflitos entre [[judeus]] tradicionais e helenísticos aconteciam.
+- Em Esmirna haviam muitos [[judeus helenísticos]]. Por causa disso, conflitos entre [[Judeus]] tradicionais e helenísticos aconteciam.
 	- Provavelmente era a se grupo que Jesus se referia quando disse "se declaram judeus e não são"
 		- Sinagoga de [[Satanás]] se refere, ao grupo de falsos judeus
 
