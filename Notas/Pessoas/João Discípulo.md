@@ -1,0 +1,10 @@
+- Autor de um [[Evangelhos|Evangelho]]: [[43. João|Evangelho de João]] e 3 [[Epístolas]]: [[1 João]], [[2 João]] e [[3 João]].
+- Filho de [[Zebedeu]]
+- Irmão de Thiago
+- Entitulou-se de **Discípulo Amado**
+- Na [[Última Ceia|última ceia]] estava ao lado de [[Jesus]]
+	- Ver referência
+- Viagens:
+- Foi exilado na ilha de [[Patmos]], onde escreveu [[Apocalipse]]
+- Morreu de velhice
+- Último dos [[Os 12|12]] a morrer

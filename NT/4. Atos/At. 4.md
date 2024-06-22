@@ -1,6 +1,6 @@
 # Pedro e João Perante o Sinédrio
 [[At. 4]] 1-37
-- [[Simão Pedro]] e [[João]] falavam ao povo, e muitos dos que escutavam criam, somando já cerca de 5 mil homens
+- [[Simão Pedro]] e [João](João Discípulo) falavam ao povo, e muitos dos que escutavam criam, somando já cerca de 5 mil homens
 - Chegaram os [[Sacerdotes]], o capitão da guarda do templo e os [[Saduceus]]; eles estavam perturbados por estarem pregando que Jesus ressucitou dos mortos
 - Os pregadores foram colocados na prisão até dia seguinte, pois já era noite
 - Anás, [[Sumo Sacerdote]] e [[Caifás]] mandaram trazer os pregadores para diante das autoridades

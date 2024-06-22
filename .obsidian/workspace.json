@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "db07442fae9ed133",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "967ecc6c7968ca10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/26. Apocalipse/Ap. 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "40d22c8858a538c4",
         "type": "tabs",
         "children": [
@@ -32,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1c79e550a0d894b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT/26. Apocalipse/Ap. 2.md",
+                "file": "NT/26. Apocalipse/Ap. 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 3.md",
+                "file": "NT/26. Apocalipse/Ap. 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 3.md",
+                "file": "NT/26. Apocalipse/Ap. 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 3.md"
+                "file": "NT/26. Apocalipse/Ap. 4.md"
               }
             }
           }
@@ -193,44 +161,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "967ecc6c7968ca10",
+  "active": "6078bcba03f2e44a",
   "lastOpenFiles": [
-    "Notas/Outros/Dignidade.md",
+    "Imagens/esmeralda.jpg",
+    "Imagens/esmeralda.jpg.crdownload",
     "NT/26. Apocalipse/Ap. 3.md",
-    "NT/26. Apocalipse/Cartas às Sete Igrejas da Ásia.md",
+    "Notas/Minerais/Sardônio.md",
+    "NT/26. Apocalipse/Ap. 4.md",
+    "Notas/Minerais",
+    "Imagens/carnelian.jpg",
+    "Imagens/carnelian.jpg.crdownload",
+    "Notas/Pessoas/João Discípulo.md",
+    "Imagens/jaspe.jpg",
+    "Imagens/jaspe.jpg.crdownload",
+    "Imagens",
     "NT/26. Apocalipse/Ap. 1.md",
+    "Notas/Pessoas/Jesus.md",
+    "Notas/Doutrinas/Trindade/Deus Pai.md",
+    "Notas/Doutrinas/Trindade",
+    "Notas/Doutrinas",
+    "NT/4. Atos/At. 1.md",
+    "Notas/Pessoas/João.md",
+    "Notas/Títulos/Cristo.md",
+    "NT/4. Atos/At. 4.md",
+    "NT/4. Atos/João.md",
+    "NT/4. Atos/[[João.md",
+    "Notas/Pessoas/João Batista.md",
+    "NT/26. Apocalipse/João.md",
+    "NT/26. Apocalipse/().md",
+    "NT/4. Atos/At. 3.md",
+    "NT/26. Apocalipse/João,.md",
+    "NT/26. Apocalipse/João, O Discípulo.md",
+    "NT/26. Apocalipse/0. Intro.md",
+    "Notas/Outros/Dignidade.md",
+    "NT/26. Apocalipse/Cartas às Sete Igrejas da Ásia.md",
     "Notas/Livros/Cartas",
     "Notas/Grupos e Seitas/Judeus.md",
     "NT/26. Apocalipse/Ap. 2.md",
     "NT/26. Apocalipse/[Dignidade].md",
-    "NT/26. Apocalipse/[[Dignidade]].md",
-    "Notas/Títulos/Cristo.md",
-    "AT/31. Obadias/Ob. 1.md",
-    "Notas/Livros/Obadias.md",
-    "AT/31. Obadias/0. Intro.md",
-    "Notas/Pessoas/Profetas/Joel.md",
-    "Notas/Pessoas/Profetas/Obadias.md",
-    "AT/31. Obadias/Untitled.md",
-    "Notas/Livros/1. Gênesis.md",
-    "AT/30. Amós/0. Intro.md",
-    "AT/30. Amós/Am. 5.md",
-    "README.md",
-    "Notas/Outros/Jejum.md",
-    "AT/28. Oséias/0. Intro.md",
-    "AT/28. Oséias/Os. 11.md",
-    "NT/26. Apocalipse/0. Intro.md",
-    "NT/4. Atos/Jejum.md",
-    "NT/4. Atos/At. 23.md",
-    "NT/0-4. Evangelhos/2. Lucas/Lc. 8.md",
     "Notas/Títulos",
     "NT/5-25. Cartas",
-    "NT/0-4. Evangelhos",
-    "AT/20. Provérbios",
-    "AT/criador.py",
-    "23. Jeremias",
-    "22. Cantares",
-    "21. Eclesiastes",
-    "20. Provérbios",
     "Untitled.canvas"
   ]
 }

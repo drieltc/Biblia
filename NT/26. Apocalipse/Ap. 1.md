@@ -1,13 +1,13 @@
 # Prefácio
 
 > Ap. 1:1
-> - "Revelação de Jesus Cristo, a qual Deus lhe deu para mostrar aos seus servos as coisas que em breve devem acontecer e que ele, enviando o seu anjo, deu a conhecer ao seu servo [[João]]," (Ap. 1:1 NAA)
+> - "Revelação de [[Jesus|Jesus Cristo]], a qual [[Deus]] lhe deu para mostrar aos seus servos as coisas que em breve devem acontecer e que ele, enviando o seu [[Anjos|anjo]], deu a conhecer ao seu servo [[João Discípulo|João]]" (Ap. 1:1 NAA)
 > - "Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ θεὸς δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει, καὶ ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ τῷ δούλῳ αὐτοῦ Ἰωάννῃ,"
 
 - **Ordem da Revelação:** Deus -> Jesus -> Anjo -> João
 	- Deus ([[Deus Pai]]?) revelou a Jesus, Jesus ao anjo, o anjo a João
 - O verbo "devem" pode, em certos contextos, indicar algo incerto, que não necessariamente irá ocorrer. Não é o caso. Em inglês, por exemplo, essa dúvida não existe, já que o vocábulo usado é "must".
-
+- 
 > Ap. 1:2
 > "que atestou a palavra de Deus e o testemunho de Jesus Cristo, quanto a tudo que viu." (Ap. 1:2 NAA)
 - Em outras palavras, tudo o que João viu foi anotado na carta.

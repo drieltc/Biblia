@@ -1,6 +1,6 @@
 # A Cura de um Mendigo Aleijado
 [[At. 3]] 1-10
-- [[Simão Pedro]] e [[João]] iam para o templo às 15hrs, a [[Hora da Oração]]
+- [[Simão Pedro]] e [João](João Discípulo) iam para o templo às 15hrs, a [[Hora da Oração]]
 - Na Porta Formosa do templo, todos os dias, era colocado um homem que era aleijado
 - Esse homem viu os [[Apóstolos]] e pediu que lhe dessem esmola
 - Pedro então disse sua famosa frase "Não tenho prata nem ouro, mas o que tenho, isso te dou. Em nome de Jesus Cristo, o Nazareni, levante-te e anda"
