@@ -14,5 +14,24 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "obsidian-comments:add-comment": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-comments:show-comments-panel": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
