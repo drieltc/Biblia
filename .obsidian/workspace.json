@@ -32,9 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e16bc8d9b0e486a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/26. Apocalipse/Ap. 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3ce2e0131871981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/26. Apocalipse/Ap. 7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 5.md",
+                "file": "NT/26. Apocalipse/Ap. 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 5.md",
+                "file": "NT/26. Apocalipse/Ap. 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 5.md"
+                "file": "NT/26. Apocalipse/Ap. 7.md"
               }
             }
           }
@@ -175,10 +201,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "219080946183df63",
+  "active": "c3ce2e0131871981",
   "lastOpenFiles": [
-    "NT/26. Apocalipse/Ap. 4.md",
+    "NT/26. Apocalipse/Ap. 6.md",
+    "NT/26. Apocalipse/Ap. 7.md",
     "NT/26. Apocalipse/Ap. 5.md",
+    "NT/26. Apocalipse/Ap. 4.md",
     "NT/26. Apocalipse/Cartas às Sete Igrejas da Ásia.md",
     "Imagens/esmeralda.jpg",
     "Imagens/esmeralda.jpg.crdownload",
@@ -212,8 +240,6 @@
     "Notas/Outros/Dignidade.md",
     "Notas/Livros/Cartas",
     "Notas/Grupos e Seitas/Judeus.md",
-    "NT/26. Apocalipse/Ap. 2.md",
-    "NT/26. Apocalipse/[Dignidade].md",
     "Notas/Títulos",
     "NT/5-25. Cartas",
     "Untitled.canvas"
