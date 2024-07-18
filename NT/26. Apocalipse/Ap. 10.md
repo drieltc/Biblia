@@ -1,0 +1,17 @@
+-- Após as 6 trombetas, [[João Discípulo|João]] vê um anjo descendo do céu
+	-- Forte
+	-- Envolto numa nuvem
+	-- [[Arco-íris]] por cima da cabeça
+	-- Rosto como o Sol
+	-- Pernas como coluna de fogo
+	-- Tinha um livrinho (pergaminho) aberto na mão
+-> Colocou o pé direito sobre o mar e o pé esquerdo sobre a terra e gritou (como um rugido de leão)
+	-> [[Os Sete Trovões]] falaram alguma coisa, mas João não teve permissão para anotá-las
+-> O anjo levantou sua mão e jurou por [[Deus]] que 
+	-- O tempo estava próximo
+	-- Quando a [[sete trombetas|Sétima Trombeta]] estiver para ser tocada, se cumprirá o mistério de Deus, como Ele havia anunciado aos [[Profetas]]
+-> Uma voz que vinha do céu manda João pegar o pergaminho da mão do anjo
+-> O anjo entrega a João o pergaminho e o manda devorar.
+	-- No estômago seria amargo, mas na boca seria doce como mel
+-> João comeu
+-> Lhe foi dito que ele ainda haveria de profetizar sobre muitos povos, nações, línguas e reis.

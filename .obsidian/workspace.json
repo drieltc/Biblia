@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9ce562db6e3d0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NT/26. Apocalipse/Ap. 10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 9.md",
+                "file": "NT/26. Apocalipse/Ap. 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 9.md",
+                "file": "NT/26. Apocalipse/Ap. 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 9.md"
+                "file": "NT/26. Apocalipse/Ap. 10.md"
               }
             }
           }
@@ -175,10 +188,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66f8c167848284fc",
+  "active": "f9ce562db6e3d0c4",
   "lastOpenFiles": [
-    "NT/26. Apocalipse/Ap. 8.md",
     "NT/26. Apocalipse/Ap. 9.md",
+    "NT/26. Apocalipse/Ap. 10.md",
+    "NT/26. Apocalipse/Ap. 8.md",
     "NT/26. Apocalipse/Ap. 7.md",
     "NT/26. Apocalipse/Ap. 6.md",
     "NT/26. Apocalipse/Ap. 5.md",
@@ -212,7 +226,6 @@
     "NT/4. Atos/At. 3.md",
     "NT/26. Apocalipse/João,.md",
     "NT/26. Apocalipse/João, O Discípulo.md",
-    "NT/26. Apocalipse/0. Intro.md",
     "Notas/Livros/Cartas",
     "Notas/Títulos",
     "NT/5-25. Cartas",
