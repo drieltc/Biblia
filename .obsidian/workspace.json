@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 10.md",
+                "file": "AT/27. Daniel/0. Intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c25eb73294a63c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/27. Daniel/Dn. 7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 10.md",
+                "file": "AT/27. Daniel/Dn. 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 10.md",
+                "file": "AT/27. Daniel/Dn. 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT/26. Apocalipse/Ap. 10.md"
+                "file": "AT/27. Daniel/Dn. 7.md"
               }
             }
           }
@@ -188,10 +201,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9ce562db6e3d0c4",
+  "active": "c25eb73294a63c37",
   "lastOpenFiles": [
-    "NT/26. Apocalipse/Ap. 9.md",
+    "AT/27. Daniel/0. Intro.md",
+    "AT/27. Daniel/Dn. 7.md",
     "NT/26. Apocalipse/Ap. 10.md",
+    "NT/26. Apocalipse/Ap. 9.md",
     "NT/26. Apocalipse/Ap. 8.md",
     "NT/26. Apocalipse/Ap. 7.md",
     "NT/26. Apocalipse/Ap. 6.md",
@@ -224,8 +239,6 @@
     "NT/26. Apocalipse/João.md",
     "NT/26. Apocalipse/().md",
     "NT/4. Atos/At. 3.md",
-    "NT/26. Apocalipse/João,.md",
-    "NT/26. Apocalipse/João, O Discípulo.md",
     "Notas/Livros/Cartas",
     "Notas/Títulos",
     "NT/5-25. Cartas",
