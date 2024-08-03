@@ -1,0 +1,26 @@
+# Visão Sobre um Carneiro e um Bode
+- 3° ano do reinado de [[Reis da Babilônia|Belsazar]] 
+- Visão
+- Daniel se vê na cidade de [[Susã]], perto do [[Rio Ulai]]
+- Daniel vê um carneiro
+	- Possuía dois chifres, um maior que o outro
+	- Dava chifradas para Norte, Sul e Oeste, e nenhum animal lhe podia resistir
+	- Fazia o que bem queria e se engrandeceu cada vez mais
+- > Um bode veio do Oeste
+	- Tinha um chifre entre os olhos
+	- > Foi na direção do carneiro e lhe quebrou os chifres; derrotou o carneiro
+	- > O bode se engrandeceu, até que, em seu máximo poder, seu chifre foi quebrado
+	- > Quatro chifres surgiram no seu lugar
+	- > De um deles saiu um chifre pequeno, mas que ficou extremamente poderoso
+		- Chegou a alcançar o exército dos céus e desafiar o príncipe deste exército
+		- > Tirou o sacrifício diário e destruiu o santuário
+- Daniel ouve duas vozes
+	- Uma perguntava à outra "Quanto tempo o santuário ficará entregue?"
+	- "2300 Tardes e Manhãs, depois o santuário será purificado" foi a resposta
+- Daniel procurou entender a visão, até que uma figura supostamente angelical se lhe aproximou
+	- Carneiro de Dois Chifres => Reis da Média e da Pérsia
+	- Bode => Grécia {[[Alexandre, o Grande]]}
+	- 4 Chifres do Bode => 4 reinos que surgiriam {[[4 Generais de Alexandre|Cassandro, Ptolemeu, Antígono e Seleuco]]}
+	- Quando se aproximar o fim desses reinos, surgirá um "rei cruel e mestre em intrigas"
+		- Faria muitas maldades ao povo de Deus, mas seria destruído sem intervenção humana
+		- {[[Antíoco]]}

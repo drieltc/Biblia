@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d238cbfc8ab31310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AT/27. Daniel/Dn. 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AT/27. Daniel/Dn. 7.md",
+                "file": "AT/27. Daniel/Dn. 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AT/27. Daniel/Dn. 7.md",
+                "file": "AT/27. Daniel/Dn. 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AT/27. Daniel/Dn. 7.md"
+                "file": "AT/27. Daniel/Dn. 8.md"
               }
             }
           }
@@ -201,10 +214,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c25eb73294a63c37",
+  "active": "d238cbfc8ab31310",
   "lastOpenFiles": [
-    "AT/27. Daniel/0. Intro.md",
     "AT/27. Daniel/Dn. 7.md",
+    "AT/27. Daniel/Dn. 8.md",
+    "AT/27. Daniel/0. Intro.md",
     "NT/26. Apocalipse/Ap. 10.md",
     "NT/26. Apocalipse/Ap. 9.md",
     "NT/26. Apocalipse/Ap. 8.md",
@@ -238,7 +252,6 @@
     "Notas/Pessoas/João Batista.md",
     "NT/26. Apocalipse/João.md",
     "NT/26. Apocalipse/().md",
-    "NT/4. Atos/At. 3.md",
     "Notas/Livros/Cartas",
     "Notas/Títulos",
     "NT/5-25. Cartas",
